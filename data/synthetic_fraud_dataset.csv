@@ -1,0 +1,1201 @@
+transaction_id,customer_id,transaction_datetime,country,channel,merchant_category,amount,device_trust_score,num_txn_24h_customer,previous_chargeback_count,is_fraud,transaction_note
+1,1119,2022-04-21T21:41:41,AU,mobile_app,gaming,547.24,78,3,3,0,VPN suspected
+2,1166,2022-01-31T02:59:48,JP,web,luxury,1069.52,17,0,2,0,overnight shipping
+3,1142,2024-09-23T04:12:18,CN,web,travel,305.73,16,4,1,0,
+4,1060,2024-04-06T03:56:36,SG,pos_terminal,electronics,2096.71,76,2,2,0,high value item
+5,1018,2022-01-20T14:39:36,US,pos_terminal,groceries,663.15,18,2,3,0,first time merchant
+6,1170,2023-09-06T21:06:56,CN,web,electronics,778.08,36,1,2,0,
+7,1011,2022-01-08T10:49:08,US,mobile_app,groceries,2758.85,11,5,0,0,new device
+8,1010,2024-01-03T06:43:15,MY,mobile_app,travel,2032.48,29,1,1,1,high value item
+9,1171,2023-05-24T08:10:50,JP,mobile_app,electronics,1112.95,68,6,1,0,VPN suspected
+10,1071,2023-12-21T20:32:25,AU,pos_terminal,gaming,577.59,32,2,3,0,VPN suspected
+11,1147,2023-01-25T08:02:45,JP,pos_terminal,travel,4701.38,35,0,2,0,repeat purchase
+12,1104,2023-10-31T12:44:18,US,web,luxury,1896.35,32,2,0,0,
+13,1113,2023-03-14T16:30:50,SG,pos_terminal,electronics,3319.61,21,6,2,0,repeat purchase
+14,1018,2024-07-21T13:56:40,JP,pos_terminal,luxury,1220.68,10,6,0,0,
+15,1063,2022-09-06T14:08:51,JP,pos_terminal,travel,4750.25,88,4,3,0,VPN suspected
+16,1070,2024-12-03T15:40:15,MY,web,gaming,1679.9,20,1,1,0,VPN suspected
+17,1107,2024-03-08T18:44:01,US,pos_terminal,NA,4713.77,59,6,1,0,VPN suspected
+18,1042,2024-08-15T04:39:34,CN,mobile_app,travel,136.48,27,1,3,0,overnight shipping
+19,1107,2023-06-01T02:30:01,US,web,gaming,344.02,15,1,0,0,VPN suspected
+20,1179,2023-06-09T11:10:38,UK,pos_terminal,electronics,819.67,84,2,3,0,repeat purchase
+21,1178,2023-09-10T21:38:51,UK,pos_terminal,electronics,2142.46,74,0,3,0,high value item
+22,1045,2024-12-04T20:17:39,CN,pos_terminal,luxury,4128.85,51,6,2,0,VPN suspected
+23,1126,2023-10-28T05:31:13,AU,mobile_app,gaming,2981.18,81,1,3,0,high value item
+24,1004,2022-07-10T09:14:25,CN,mobile_app,travel,2767.81,80,5,2,0,new device
+25,1176,2023-01-15T06:13:47,UK,pos_terminal,travel,2623.66,22,2,1,0,new device
+26,1178,2022-09-16T20:55:48,UK,web,travel,2394.09,16,6,0,1,high value item
+27,1077,2022-06-24T07:07:35,CN,pos_terminal,travel,1129.21,67,2,3,0,first time merchant
+28,1160,2023-03-09T08:42:05,US,web,travel,14.38,86,0,2,0,high value item
+29,1150,2023-02-10T13:07:34,CN,web,gaming,357.98,49,6,2,0,overnight shipping
+30,1126,2024-06-15T02:38:02,AU,pos_terminal,gaming,130.3,83,0,2,0,new device
+31,1046,2024-06-11T20:52:31,JP,mobile_app,luxury,3351.0,52,3,3,0,VPN suspected
+32,1103,2024-11-19T00:42:55,MY,mobile_app,electronics,1809.54,N/A,0,1,0,high value item
+33,1061,2022-11-21T09:35:00,CN,web,groceries,4564.74,25,1,2,0,
+34,1037,2024-02-25T06:58:38,US,web,electronics,3950.24,74,0,2,0,high value item
+35,1088,2023-11-12T17:48:34,AU,mobile_app,groceries,1194.79,62,5,3,0,
+36,1032,2024-10-25T18:21:55,AU,mobile_app,electronics,2285.18,62,1,2,0,high value item
+37,1136,2024-02-18T10:40:45,SG,mobile_app,travel,343.04,46,5,0,0,repeat purchase
+38,1011,2023-10-27T01:18:22,US,web,groceries,2830.07,31,4,1,0,new device
+39,1002,2024-08-10T09:43:34,DE,mobile_app,gaming,1496.47,42,2,3,0,VPN suspected
+40,1075,2022-02-14T21:25:17,CN,pos_terminal,electronics,3726.12,46,1,2,0,overnight shipping
+41,1035,2022-07-18T20:41:02,MY,mobile_app,electronics,3662.07,47,3,1,0,overnight shipping
+42,1065,2024-09-13T09:47:55,DE,web,luxury,704.64,60,6,0,1,first time merchant
+43,1067,2024-02-20T20:23:06,AU,mobile_app,electronics,4715.9,88,0,3,0,NA
+44,1029,2022-07-19T07:56:34,US,mobile_app,gaming,3715.96,63,5,3,0,NA
+45,1055,2024-06-27T14:15:54,AU,pos_terminal,gaming,4889.23,NA,0,3,0,high value item
+46,1032,2023-02-25T02:53:48,AU,pos_terminal,,1165.76,-5,1,1,0,NA
+47,1013,2022-09-17T23:26:33,CN,web,luxury,1810.83,67,4,2,0,repeat purchase
+48,1027,2024-10-01T22:58:28,AU,web,gaming,329.35,91,5,2,0,repeat purchase
+49,1141,2023-03-17T13:28:56,CN,mobile_app,luxury,3648.33,50,2,3,0,repeat purchase
+50,1033,2022-05-03T18:35:35,AU,web,luxury,3327.04,16,4,0,0,high value item
+51,1142,2024-01-23T03:48:17,CN,mobile_app,travel,4092.32,92,4,6,0,overnight shipping
+52,1036,2024-03-31T02:09:47,JP,web,electronics,1076.45,53,2,0,0,
+53,1169,2024-05-18T15:38:28,JP,web,travel,2150.14,85,5,1,0,repeat purchase
+54,1065,2023-08-16T10:07:00,DE,mobile_app,groceries,2663.38,81,6,3,1,repeat purchase
+55,1109,2024-04-08T22:40:26,UK,mobile_app,electronics,860.19,68,2,0,0,first time merchant
+56,1056,2023-11-14T05:04:32,AU,pos_terminal,travel,3881.36,92,1,2,0,
+57,1160,2024-10-08T14:48:36,US,mobile_app,travel,4932.67,90,3,3,0,first time merchant
+58,1115,2022-03-19T01:23:53,US,pos_terminal,electronics,2535.83,80,5,3,0,new device
+59,1015,2024-07-11T03:51:57,CN,pos_terminal,electronics,863.62,66,4,1,0,VPN suspected
+60,1161,2023-11-17T02:21:06,MY,mobile_app,gaming,4257.98,87,2,1,0,high value item
+61,1021,2023-09-27T17:24:41,SG,web,travel,3352.61,12,1,2,0,new device
+62,1025,2024-11-05T17:53:47,SG,web,gaming,3090.54,29,6,1,1,overnight shipping
+63,1072,2024-07-08T07:34:15,UK,mobile_app,groceries,4735.7,69,6,3,0,
+64,1123,2024-01-31T17:59:06,JP,pos_terminal,electronics,3815.82,75,3,1,0,repeat purchase
+65,1098,2022-06-17T11:14:01,US,web,,688.86,70,1,3,1,repeat purchase
+66,1155,2024-12-16T13:07:49,CN,mobile_app,electronics,2099.71,68,6,0,0,high value item
+67,1061,2024-05-03T05:42:42,CN,mobile_app,electronics,2720.87,74,3,0,0,overnight shipping
+68,1061,2022-08-01T18:47:48,CN,web,,4067.73,69,3,1,0,VPN suspected
+69,1010,2023-10-09T09:32:25,JP,mobile_app,electronics,956.33,16,2,2,0,VPN suspected
+70,1127,2024-10-15T11:59:51,DE,web,luxury,3012.66,79,0,2,0,VPN suspected
+71,1090,2024-06-09T08:40:50,US,pos_terminal,luxury,4005.68,13,4,4,0,high value item
+72,1154,2022-11-11T21:28:23,CN,web,travel,1835.38,45,0,1,0,first time merchant
+73,1054,2023-08-08T22:58:31,SG,web,electronics,4493.5,21,6,2,0,overnight shipping
+74,1179,2022-12-23T11:32:14,UK,web,groceries,2470.62,83,6,1,0,overnight shipping
+75,1105,2024-04-18T18:04:08,US,mobile_app,luxury,1723.23,80,1,1,0,repeat purchase
+76,1041,2023-10-23T22:14:22,DE,web,gaming,4781.8,90,4,1,0,new device
+77,1144,2022-03-26T00:05:02,DE,pos_terminal,groceries,2083.52,73,4,2,0,high value item
+78,1040,2024-06-19T13:30:29,DE,pos_terminal,groceries,3592.1,54,1,0,0,overnight shipping
+79,1098,2024-05-06T07:55:57,US,mobile_app,travel,949.98,75,2,0,0,new device
+80,1126,2024-08-21T09:34:00,AU,mobile_app,groceries,3637.81,56,0,1,0,VPN suspected
+81,1159,2022-09-01T04:06:25,CN,mobile_app,travel,3775.07,75,0,1,0,first time merchant
+82,1083,2023-10-15T05:25:39,SG,mobile_app,travel,4141.62,82,6,2,0,first time merchant
+83,1161,2022-02-24T19:30:16,CN,pos_terminal,electronics,853.39,89,3,9,0,repeat purchase
+84,1052,2024-04-20T16:49:39,MY,pos_terminal,groceries,2804.87,71,2,3,0,overnight shipping
+85,1177,2023-06-26T19:30:12,DE,pos_terminal,gaming,4864.58,46,5,2,0,
+86,1139,2024-02-17T12:52:22,SG,mobile_app,electronics,3570.99,66,5,1,0,first time merchant
+87,1150,2023-05-06T07:03:42,CN,pos_terminal,groceries,2067.09,22,29,1,0,VPN suspected
+88,1082,2023-08-08T20:03:58,DE,pos_terminal,travel,3693.69,14,1,1,1,
+89,1074,2022-03-18T00:19:36,US,mobile_app,gaming,3206.92,27,3,0,0,high value item
+90,1075,2023-01-31T05:39:54,CN,mobile_app,luxury,434.6,33,3,7,0,
+91,1146,2022-01-24T08:41:23,JP,web,electronics,799.42,49,5,2,0,new device
+92,1095,2024-05-01T22:35:58,SG,pos_terminal,groceries,3402.03,20,4,0,0,
+93,1038,2022-12-03T10:54:33,UK,pos_terminal,groceries,2444.65,67,3,3,1,NA
+94,1000,2023-03-23T18:04:02,US,pos_terminal,electronics,302.22,70,3,1,0,high value item
+95,1114,2024-02-13T12:05:43,SG,pos_terminal,gaming,4964.24,26,1,0,0,high value item
+96,1063,2024-08-01T11:09:17,JP,pos_terminal,electronics,3301.33,12,0,0,0,
+97,1059,2023-03-21T01:08:32,CN,pos_terminal,travel,2989.99,51,1,1,0,first time merchant
+98,1160,2024-05-24T17:31:03,UK,pos_terminal,gaming,2041.89,33,3,1,0,
+99,1106,2024-12-21T04:24:15,AU,mobile_app,electronics,4235.82,34,3,0,0,
+100,1053,2023-11-13T09:58:00,AU,web,electronics,3771.9,87,3,2,0,first time merchant
+101,1127,2024-08-12T03:51:46,DE,mobile_app,groceries,2070.24,38,0,3,0,new device
+102,1167,2023-11-23T08:48:52,CN,pos_terminal,luxury,3664.13,27,3,0,0,repeat purchase
+103,1105,2022-10-09T20:14:04,DE,web,groceries,1866.63,95,3,8,0,repeat purchase
+104,1004,2024-10-25T22:43:27,CN,web,electronics,2622.4,89,6,3,0,VPN suspected
+105,1175,2022-06-15T20:54:41,US,web,luxury,2763.95,11,0,3,0,
+106,1058,2023-03-09T22:56:36,DE,web,electronics,1402.58,94,6,1,0,high value item
+107,1144,2023-05-08T18:53:54,UK,pos_terminal,gaming,3698.99,20,2,3,1,first time merchant
+108,1083,2022-03-02T20:17:50,JP,web,gaming,1877.76,84,0,2,0,repeat purchase
+109,1039,2024-03-08T10:23:06,US,mobile_app,luxury,1349.56,33,4,3,0,first time merchant
+110,1098,2022-01-26T09:26:24,US,pos_terminal,travel,4890.89,31,1,2,0,new device
+111,1019,2024-01-10T08:15:46,DE,pos_terminal,travel,535.75,60,4,2,0,
+112,1082,2023-02-16T15:20:11,AU,mobile_app,luxury,3910.09,N/A,3,1,0,high value item
+113,1053,2024-06-16T09:53:44,AU,mobile_app,luxury,1514.86,29,6,3,0,VPN suspected
+114,1107,2022-03-17T11:44:57,US,pos_terminal,electronics,1241.91,NA,0,3,0,
+115,1132,2023-03-29T14:23:25,US,pos_terminal,travel,754.57,71,3,0,0,new device
+116,1133,2024-09-16T11:30:06,JP,pos_terminal,luxury,1502.02,24,2,1,0,first time merchant
+117,1118,2023-04-20T12:40:11,SG,pos_terminal,luxury,3687.2,67,24,1,0,
+118,1047,2024-01-20T10:12:29,US,pos_terminal,luxury,3195.9,88,0,3,0,high value item
+119,1172,2022-10-02T10:07:15,UK,web,gaming,2554.61,27,3,1,0,new device
+120,1091,2022-01-20T15:08:12,JP,pos_terminal,travel,2046.26,66,0,1,0,first time merchant
+121,1126,2024-11-12T03:36:07,AU,pos_terminal,gaming,3784.17,66,3,1,0,VPN suspected
+122,1030,2023-05-01T06:51:47,UK,mobile_app,travel,830.74,36,6,2,0,new device
+123,1068,2024-11-19T21:52:06,MY,mobile_app,electronics,4335.37,26,5,1,0,VPN suspected
+124,1096,2024-07-14T02:40:50,SG,web,luxury,1391.85,57,3,0,0,repeat purchase
+125,1091,2022-05-10T17:25:13,CN,mobile_app,,1418.68,26,3,9,0,NA
+126,1051,2022-09-28T20:19:10,DE,mobile_app,NA,1252.7,93,3,1,0,repeat purchase
+127,1132,2024-06-30T00:00:44,US,web,luxury,2389.02,21,0,2,0,
+128,1173,2022-10-20T02:33:36,CN,pos_terminal,groceries,3612.44,29,4,1,0,
+129,1109,2023-10-07T04:15:17,UK,web,travel,3606.18,13,5,1,0,high value item
+130,1061,2024-10-10T12:07:15,CN,pos_terminal,electronics,4888.51,50,6,3,0,
+131,1150,2022-05-19T00:16:13,CN,web,luxury,3143.22,63,3,1,0,first time merchant
+132,1083,2024-03-11T18:40:48,SG,pos_terminal,electronics,2187.99,40,0,0,0,overnight shipping
+133,1003,2022-10-09T22:00:10,CN,mobile_app,travel,4112.71,57,6,0,1,
+134,1147,2022-06-07T15:29:32,JP,mobile_app,travel,787.39,83,0,10,1,repeat purchase
+135,1009,2024-05-08T07:20:15,MY,pos_terminal,gaming,390.36,74,0,0,0,VPN suspected
+136,1022,2024-07-24T00:23:12,UK,mobile_app,travel,1842.0,35,4,1,0,repeat purchase
+137,1002,2023-11-18T00:48:42,DE,pos_terminal,gaming,2649.54,72,1,5,0,first time merchant
+138,1021,2022-07-15T16:08:40,SG,web,travel,2175.48,40,6,3,0,overnight shipping
+139,1034,2022-08-12T04:06:10,DE,mobile_app,luxury,1792.08,67,2,0,0,
+140,1083,2022-10-31T02:45:15,UK,pos_terminal,electronics,1301.57,,6,1,1,
+141,1102,2024-02-02T21:40:41,DE,pos_terminal,gaming,375.86,35,3,0,0,overnight shipping
+142,1146,2024-06-06T23:25:31,JP,pos_terminal,luxury,1074.37,45,1,1,0,first time merchant
+143,1107,2023-02-13T20:56:51,US,pos_terminal,travel,4947.03,NA,6,2,0,overnight shipping
+144,1120,2024-12-20T11:49:37,SG,web,groceries,1333.37,17,1,3,0,
+145,1178,2024-01-05T18:01:45,UK,pos_terminal,travel,4741.89,N/A,1,0,0,repeat purchase
+146,1033,2023-11-29T22:11:58,AU,mobile_app,electronics,2933.46,24,6,0,0,VPN suspected
+147,1040,2024-06-13T20:31:41,DE,pos_terminal,travel,4644.3,38,6,2,0,new device
+148,1100,2022-03-08T05:38:20,CN,pos_terminal,travel,2481.43,19,2,0,0,high value item
+149,1063,2022-05-19T11:16:50,JP,web,electronics,3663.19,62,3,3,0,
+150,1115,2022-05-31T01:18:01,US,web,electronics,4439.77,19,0,3,0,high value item
+151,1025,2023-11-10T06:12:26,SG,pos_terminal,travel,1408.33,16,4,1,1,repeat purchase
+152,1051,2022-07-18T00:13:10,DE,web,luxury,1542.46,72,2,3,0,overnight shipping
+153,1067,2023-04-09T08:36:03,AU,pos_terminal,electronics,1719.61,85,0,3,0,VPN suspected
+154,1101,2022-03-13T16:36:57,JP,pos_terminal,travel,4746.32,31,6,0,0,VPN suspected
+155,1152,2023-06-13T10:58:46,US,web,luxury,2760.72,76,6,3,0,first time merchant
+156,1027,2022-07-26T09:55:34,AU,mobile_app,gaming,2428.44,14,3,6,0,repeat purchase
+157,1005,2023-11-23T09:19:17,SG,pos_terminal,electronics,1140.56,66,2,3,0,VPN suspected
+158,1132,2024-02-05T01:32:50,US,mobile_app,travel,3902.8,82,1,1,0,VPN suspected
+159,1094,2024-08-08T16:25:40,MY,web,,2231.07,70,2,2,0,overnight shipping
+160,1054,2023-03-30T20:14:43,SG,pos_terminal,luxury,4323.29,11,1,0,0,overnight shipping
+161,1096,2023-12-16T14:16:13,SG,pos_terminal,travel,1986.37,75,6,2,0,repeat purchase
+162,1070,2023-06-19T20:45:57,MY,web,groceries,1202.27,86,2,0,0,overnight shipping
+163,1149,2023-01-24T10:46:45,CN,pos_terminal,luxury,3359.67,31,4,0,0,high value item
+164,1174,2023-11-19T20:05:14,US,pos_terminal,gaming,4434.33,84,6,0,0,first time merchant
+165,1174,2024-02-21T16:19:26,US,web,groceries,1714.01,68,6,0,0,new device
+166,1053,2022-12-12T18:48:10,AU,web,groceries,3167.8,71,0,2,0,
+167,1160,2023-05-25T07:44:56,US,web,electronics,2943.76,15,2,2,0,new device
+168,1048,2022-12-04T12:01:14,CN,web,groceries,2948.87,56,6,2,0,first time merchant
+169,1005,2022-04-09T22:07:26,SG,web,travel,3509.64,90,3,2,0,VPN suspected
+170,1030,2023-08-02T03:50:06,UK,pos_terminal,groceries,4157.66,N/A,2,3,0,VPN suspected
+171,1028,2024-10-08T04:05:49,US,pos_terminal,electronics,3222.04,47,0,1,0,overnight shipping
+172,1024,2022-04-04T00:54:08,DE,web,gaming,2189.13,21,2,3,0,
+173,1166,2022-12-08T03:08:44,JP,web,electronics,2954.16,66,3,0,0,high value item
+174,1028,2024-04-22T14:02:04,US,mobile_app,electronics,3389.97,83,1,2,0,first time merchant
+175,1088,2024-02-28T04:53:52,AU,pos_terminal,electronics,9671.86,70,6,3,0,overnight shipping
+176,1103,2023-04-27T02:29:28,MY,mobile_app,electronics,2235.89,73,0,8,1,repeat purchase
+177,1130,2023-02-28T20:42:29,AU,web,NA,1660.53,86,5,3,0,new device
+178,1074,2024-12-05T11:44:06,US,web,luxury,3584.56,23,1,3,0,new device
+179,1162,2022-09-10T14:29:42,AU,pos_terminal,groceries,22.68,80,6,1,0,
+180,1082,2024-10-29T12:26:38,CN,mobile_app,luxury,4852.49,27,4,2,0,overnight shipping
+181,1051,2023-03-06T19:45:18,DE,pos_terminal,groceries,3250.78,74,5,0,0,first time merchant
+182,1136,2023-08-09T13:51:00,SG,web,luxury,3351.6,30,5,0,0,
+183,1157,2023-04-05T23:41:35,US,pos_terminal,gaming,235.85,63,5,6,0,
+184,1162,2024-01-24T18:34:47,AU,pos_terminal,groceries,887.95,33,5,6,0,NA
+185,1039,2022-03-23T04:59:20,US,pos_terminal,travel,1506.47,80,6,1,0,
+186,1023,2023-12-17T07:56:13,AU,mobile_app,gaming,4751.59,70,6,0,0,new device
+187,1010,2023-10-20T12:58:50,UK,mobile_app,travel,124.5,57,4,0,0,overnight shipping
+188,1137,2024-12-28T00:40:04,JP,pos_terminal,groceries,2121.62,,5,0,0,VPN suspected
+189,1064,2022-05-25T18:52:14,UK,mobile_app,luxury,2165.69,25,5,0,0,high value item
+190,1074,2023-09-10T19:05:18,US,mobile_app,luxury,3303.96,78,5,2,0,high value item
+191,1165,2024-02-04T00:35:55,DE,web,electronics,7983.27,20,5,2,0,
+192,1064,2023-02-02T03:11:42,UK,web,travel,2748.77,18,1,3,0,high value item
+193,1049,2023-10-13T15:28:21,US,mobile_app,travel,2834.74,64,2,1,0,overnight shipping
+194,1122,2024-08-05T14:22:49,AU,pos_terminal,electronics,3033.53,N/A,1,0,0,
+195,1151,2023-03-12T01:35:16,US,pos_terminal,luxury,744.02,85,2,0,0,high value item
+196,1175,2022-12-06T16:08:28,US,pos_terminal,travel,4838.71,71,0,3,0,new device
+197,1092,2024-03-05T15:58:29,US,web,gaming,4842.24,45,2,1,0,first time merchant
+198,1096,2023-04-02T16:25:22,SG,mobile_app,luxury,4435.97,27,1,2,0,overnight shipping
+199,1106,2023-11-08T23:07:30,AU,mobile_app,groceries,3236.65,41,4,1,1,first time merchant
+200,1132,2024-04-10T19:36:40,US,pos_terminal,gaming,1083.75,70,1,3,0,
+201,1042,2023-12-03T14:38:37,CN,mobile_app,N/A,83.8,74,6,0,0,first time merchant
+202,1123,2022-09-24T19:34:52,JP,pos_terminal,luxury,1852.52,77,6,3,0,
+203,1065,2024-09-04T07:58:54,DE,pos_terminal,travel,945.92,10,0,3,0,overnight shipping
+204,1149,2023-06-04T08:54:34,CN,mobile_app,travel,3403.35,62,4,2,0,overnight shipping
+205,1035,2022-09-01T23:14:28,MY,web,electronics,2003.4,80,5,1,0,
+206,1111,2022-06-30T02:16:14,JP,pos_terminal,electronics,4653.49,N/A,5,0,0,high value item
+207,1132,2023-08-09T06:02:50,US,pos_terminal,groceries,3370.45,N/A,0,3,0,first time merchant
+208,1023,2023-08-06T23:53:35,AU,mobile_app,gaming,4815.32,61,2,0,0,overnight shipping
+209,1137,2023-05-28T22:28:24,JP,web,gaming,2294.78,85,3,0,0,new device
+210,1090,2024-11-23T17:00:44,SG,web,gaming,3368.82,19,1,2,0,new device
+211,1127,2023-02-13T07:47:15,DE,web,groceries,1249.23,29,0,3,0,first time merchant
+212,1080,2024-10-05T18:55:17,JP,pos_terminal,gaming,3751.1,77,3,0,0,high value item
+213,1132,2024-07-31T10:44:00,US,web,luxury,1627.86,43,2,3,0,new device
+214,1095,2024-01-18T12:17:28,SG,web,travel,4071.14,40,6,1,0,VPN suspected
+215,1161,2024-11-24T17:46:20,MY,mobile_app,gaming,2839.6,30,6,0,0,overnight shipping
+216,1088,2022-02-10T13:07:22,AU,pos_terminal,groceries,3249.68,46,5,3,0,overnight shipping
+217,1163,2023-11-22T13:40:39,US,web,electronics,1141.86,47,4,2,0,overnight shipping
+218,1042,2023-01-12T00:08:46,CN,mobile_app,electronics,1985.83,70,0,0,0,repeat purchase
+219,1063,2023-08-05T14:40:08,JP,web,electronics,1784.85,70,6,2,0,high value item
+220,1162,2024-06-09T16:40:40,AU,mobile_app,luxury,4023.73,56,1,0,0,NA
+221,1122,2023-09-06T00:49:27,AU,pos_terminal,groceries,2741.51,81,1,3,0,repeat purchase
+222,1156,2023-07-11T09:41:47,MY,mobile_app,luxury,343.25,,4,3,1,repeat purchase
+223,1032,2024-06-16T23:00:14,AU,web,luxury,2101.79,73,3,0,0,new device
+224,1120,2023-01-07T06:57:53,SG,mobile_app,electronics,3840.96,66,0,0,0,VPN suspected
+225,1040,2022-03-28T23:59:35,DE,mobile_app,luxury,994.42,95,0,3,0,overnight shipping
+226,1010,2024-08-31T22:38:09,MY,web,groceries,457.92,90,2,0,0,first time merchant
+227,1112,2023-01-31T00:44:24,MY,web,gaming,2427.03,47,3,1,0,VPN suspected
+228,1141,2022-11-25T02:33:09,CN,mobile_app,travel,4.6,58,0,2,0,high value item
+229,1048,2024-12-09T21:31:49,CN,pos_terminal,gaming,3204.88,76,0,1,1,repeat purchase
+230,1099,2024-09-30T16:39:44,UK,web,gaming,3589.51,36,6,0,0,VPN suspected
+231,1157,2023-06-29T16:02:46,US,mobile_app,electronics,4802.97,39,1,1,0,first time merchant
+232,1163,2024-01-04T21:29:44,US,web,groceries,2750.28,94,4,2,0,overnight shipping
+233,1082,2023-05-08T18:34:13,DE,pos_terminal,gaming,2262.56,10,2,1,0,overnight shipping
+234,1176,2023-07-20T17:32:35,UK,pos_terminal,groceries,2302.39,43,4,2,0,VPN suspected
+235,1083,2024-09-15T05:31:52,SG,pos_terminal,travel,477.72,14,4,0,0,
+236,1058,2022-01-24T20:49:40,DE,mobile_app,travel,2700.11,74,1,3,0,first time merchant
+237,1100,2022-10-31T04:21:05,UK,pos_terminal,electronics,1313.53,65,1,3,0,high value item
+238,1134,2023-05-20T07:04:17,US,mobile_app,travel,3359.07,54,2,0,0,overnight shipping
+239,1037,2024-06-21T01:59:52,US,pos_terminal,gaming,3642.71,,4,9,0,overnight shipping
+240,1054,2023-02-22T17:33:48,SG,mobile_app,travel,707.6,12,5,2,0,
+241,1002,2022-05-17T12:42:17,DE,pos_terminal,gaming,96.37,93,3,0,0,first time merchant
+242,1117,2022-02-14T01:15:59,CN,mobile_app,luxury,785.87,55,2,2,0,N/A
+243,1071,2023-04-07T04:21:57,AU,web,electronics,2604.07,90,3,1,0,first time merchant
+244,1035,2023-02-19T04:19:44,MY,pos_terminal,groceries,4545.1,93,1,0,0,new device
+245,1105,2024-04-22T09:28:47,DE,web,groceries,924.55,88,4,1,0,repeat purchase
+246,1128,2024-08-18T22:41:23,CN,mobile_app,luxury,819.77,62,0,3,0,new device
+247,1112,2024-09-30T22:20:55,MY,web,luxury,210.09,58,3,0,0,
+248,1137,2024-03-21T23:02:35,JP,pos_terminal,electronics,2198.33,46,3,0,0,VPN suspected
+249,1028,2023-01-04T18:57:44,US,mobile_app,luxury,125.54,35,0,1,0,repeat purchase
+250,1098,2024-11-13T19:10:24,US,web,groceries,2827.89,29,1,0,0,
+251,1033,2023-02-20T00:39:48,AU,mobile_app,N/A,2717.96,73,4,3,0,first time merchant
+252,1053,2022-04-11T05:09:03,AU,web,groceries,3335.32,48,0,3,0,overnight shipping
+253,1143,2022-12-30T14:47:37,DE,web,electronics,1614.79,18,6,2,0,
+254,1178,2023-03-05T19:03:06,UK,pos_terminal,travel,2418.83,46,6,2,0,VPN suspected
+255,1046,2023-04-22T22:18:12,DE,web,luxury,590.51,88,3,2,0,repeat purchase
+256,1017,2023-09-23T09:32:35,CN,web,electronics,1707.47,88,6,2,0,VPN suspected
+257,1123,2022-11-15T20:29:57,JP,mobile_app,luxury,2070.35,76,5,0,0,
+258,1038,2023-07-29T00:21:24,UK,web,travel,937.71,49,2,2,0,new device
+259,1134,2023-09-12T05:07:23,US,web,electronics,125.65,74,2,2,0,
+260,1033,2023-02-25T23:02:29,AU,pos_terminal,electronics,9661.69,86,2,0,0,high value item
+261,1053,2023-10-20T06:12:18,AU,mobile_app,luxury,1364.0,24,4,0,0,overnight shipping
+262,1146,2023-05-17T05:04:19,JP,mobile_app,travel,651.24,16,0,3,0,first time merchant
+263,1091,2023-10-02T10:52:12,JP,pos_terminal,travel,4614.0,82,6,3,0,high value item
+264,1057,2022-10-22T19:16:58,CN,web,gaming,4412.14,13,0,3,0,overnight shipping
+265,1027,2023-10-30T17:41:04,AU,pos_terminal,luxury,2067.8,80,3,2,0,VPN suspected
+266,1139,2023-04-29T05:42:42,DE,pos_terminal,travel,572.5,51,6,2,0,repeat purchase
+267,1083,2024-10-09T20:42:03,SG,web,travel,-30.2,29,2,3,0,overnight shipping
+268,1111,2023-12-07T02:37:00,JP,pos_terminal,luxury,4262.67,80,0,2,0,repeat purchase
+269,1081,2024-02-23T12:24:27,SG,pos_terminal,groceries,941.95,56,1,1,0,repeat purchase
+270,1034,2022-06-23T04:41:51,DE,mobile_app,travel,3116.62,64,3,1,0,first time merchant
+271,1068,2024-04-21T17:36:23,MY,web,travel,1843.52,20,5,2,0,first time merchant
+272,1171,2022-06-09T21:40:34,JP,mobile_app,travel,1718.39,70,3,2,0,
+273,1152,2023-09-15T23:50:36,AU,pos_terminal,luxury,2864.73,47,4,3,0,
+274,1070,2023-06-11T00:47:07,MY,pos_terminal,groceries,1849.46,40,6,0,0,new device
+275,1105,2024-02-24T07:42:28,DE,web,groceries,4209.32,43,0,3,0,high value item
+276,1174,2024-03-09T15:16:09,US,mobile_app,electronics,3986.75,50,5,0,0,
+277,1085,2023-07-08T08:51:06,DE,pos_terminal,luxury,3376.78,,4,1,1,repeat purchase
+278,1175,2024-07-02T11:14:46,US,web,electronics,460.61,94,1,0,0,
+279,1165,2023-01-14T03:44:11,DE,mobile_app,electronics,4613.55,64,5,2,0,overnight shipping
+280,1015,2023-06-13T08:11:28,CN,web,,3227.77,79,1,0,0,repeat purchase
+281,1114,2022-02-08T15:09:41,SG,web,luxury,3500.58,120,6,3,0,N/A
+282,1123,2022-09-06T18:34:59,AU,pos_terminal,gaming,3161.73,21,6,0,0,NA
+283,1169,2023-01-27T09:44:24,JP,pos_terminal,gaming,4426.19,34,1,1,0,first time merchant
+284,1115,2022-02-03T01:21:03,US,pos_terminal,,1059.18,76,5,1,0,N/A
+285,1011,2023-05-13T22:41:08,US,pos_terminal,electronics,4103.88,88,4,0,0,first time merchant
+286,1173,2024-04-03T10:07:43,CN,web,gaming,3965.72,85,0,1,0,overnight shipping
+287,1010,2022-10-01T03:50:54,MY,mobile_app,groceries,7434.84,32,5,2,0,
+288,1069,2024-12-07T14:26:15,MY,pos_terminal,groceries,3060.64,48,0,1,0,repeat purchase
+289,1129,2023-03-26T14:49:40,MY,mobile_app,electronics,3983.27,70,1,0,0,new device
+290,1116,2022-03-30T03:47:03,SG,web,electronics,581.21,66,2,2,0,new device
+291,1096,2023-03-28T02:30:37,SG,mobile_app,N/A,3047.56,57,5,2,0,new device
+292,1119,2024-07-28T13:10:48,AU,mobile_app,travel,3973.03,31,4,0,0,
+293,1071,2022-01-30T23:27:47,AU,web,N/A,1112.81,29,0,7,0,first time merchant
+294,1178,2022-07-20T14:31:15,UK,web,luxury,664.43,NA,0,2,0,first time merchant
+295,1035,2024-04-10T05:50:55,MY,mobile_app,electronics,354.42,52,2,2,0,first time merchant
+296,1085,2022-04-23T16:58:43,DE,web,electronics,2327.3,56,4,1,0,first time merchant
+297,1148,2023-03-06T23:48:14,US,mobile_app,travel,1386.45,54,4,0,0,
+298,1172,2022-05-15T06:57:56,UK,web,NA,1442.58,23,0,3,0,high value item
+299,1033,2024-08-28T11:26:28,AU,web,gaming,111.16,76,3,2,0,first time merchant
+300,1033,2023-09-20T05:50:16,AU,mobile_app,gaming,237.55,68,4,2,0,high value item
+301,1060,2022-08-28T01:20:36,SG,mobile_app,gaming,2812.87,50,1,1,0,repeat purchase
+302,1117,2023-10-18T04:00:47,CN,pos_terminal,gaming,1478.49,83,6,3,0,VPN suspected
+303,1078,2022-02-20T12:39:53,JP,mobile_app,electronics,3041.15,77,6,0,0,high value item
+304,1049,2024-10-01T10:38:38,US,web,gaming,3580.1,59,2,2,0,repeat purchase
+305,1106,2024-06-25T09:10:51,AU,mobile_app,luxury,2936.31,N/A,6,2,0,
+306,1106,2022-12-25T17:29:45,AU,web,,1909.47,15,2,2,0,new device
+307,1163,2024-08-25T03:41:42,US,mobile_app,groceries,3439.53,25,3,0,0,VPN suspected
+308,1121,2022-09-02T11:32:46,MY,mobile_app,groceries,731.54,27,0,3,0,repeat purchase
+309,1131,2023-02-01T20:11:48,US,web,N/A,1581.74,48,5,0,0,new device
+310,1105,2023-11-28T05:06:13,DE,web,groceries,2793.72,77,5,0,0,repeat purchase
+311,1079,2024-01-13T04:52:28,UK,pos_terminal,travel,1710.88,13,0,1,0,new device
+312,1028,2022-06-09T00:49:30,US,web,groceries,3965.48,17,2,2,0,
+313,1051,2023-01-14T21:22:01,DE,pos_terminal,gaming,1739.83,74,4,0,0,repeat purchase
+314,1043,2022-01-09T23:06:59,US,pos_terminal,luxury,2947.31,23,2,3,0,repeat purchase
+315,1133,2022-10-06T15:48:23,JP,pos_terminal,electronics,2469.07,68,2,3,0,
+316,1121,2024-01-23T05:00:43,MY,web,luxury,3293.08,28,5,0,0,new device
+317,1152,2024-04-07T03:14:53,AU,mobile_app,gaming,3830.09,92,2,3,0,new device
+318,1127,2023-04-18T20:08:01,DE,web,electronics,134.72,87,1,0,0,first time merchant
+319,1169,2024-10-16T15:32:16,JP,pos_terminal,travel,8819.82,25,2,3,1,first time merchant
+320,1042,2024-10-03T13:08:19,CN,mobile_app,electronics,2453.28,79,3,1,0,VPN suspected
+321,1072,2023-10-19T01:01:37,UK,mobile_app,gaming,2920.25,90,0,2,0,new device
+322,1176,2022-05-15T09:07:21,UK,pos_terminal,gaming,3289.18,75,2,3,0,VPN suspected
+323,1125,2022-07-24T22:43:13,US,pos_terminal,gaming,1498.3,35,6,0,0,overnight shipping
+324,1057,2022-07-08T22:54:37,CN,mobile_app,gaming,4006.13,36,0,2,0,high value item
+325,1159,2024-11-21T14:42:48,CN,web,travel,2884.64,69,5,3,0,repeat purchase
+326,1038,2023-09-07T13:26:20,UK,web,groceries,1335.41,30,4,1,0,new device
+327,1111,2024-05-14T20:57:02,JP,mobile_app,groceries,3948.56,80,6,3,1,repeat purchase
+328,1104,2024-01-15T21:42:56,US,pos_terminal,groceries,2855.3,25,6,2,1,first time merchant
+329,1149,2024-03-09T23:47:15,CN,web,electronics,4849.65,42,0,2,0,first time merchant
+330,1037,2024-01-14T15:45:23,US,web,travel,3697.51,16,6,2,0,high value item
+331,1060,2024-06-25T12:00:58,DE,mobile_app,electronics,3783.58,30,5,3,0,repeat purchase
+332,1105,2023-11-13T22:27:56,US,web,gaming,1759.93,80,3,0,0,VPN suspected
+333,1160,2023-09-18T10:36:05,US,web,travel,3838.27,26,5,2,0,new device
+334,1072,2023-02-11T02:26:23,UK,mobile_app,travel,4740.6,92,1,3,0,new device
+335,1038,2022-07-02T11:10:36,UK,pos_terminal,travel,4600.03,73,5,2,0,new device
+336,1072,2023-01-23T13:11:26,UK,web,gaming,1178.19,41,5,5,0,high value item
+337,1108,2023-06-09T02:06:35,DE,mobile_app,groceries,1772.15,95,4,8,0,overnight shipping
+338,1143,2022-03-26T18:11:16,DE,mobile_app,gaming,660.47,77,2,0,0,
+339,1067,2023-06-25T16:20:27,AU,mobile_app,luxury,757.17,94,3,1,0,VPN suspected
+340,1126,2022-03-25T14:22:45,AU,mobile_app,luxury,3599.1,54,6,1,0,first time merchant
+341,1001,2024-12-13T18:11:26,CN,mobile_app,electronics,130.78,25,4,0,0,repeat purchase
+342,1160,2023-07-06T19:42:00,US,web,travel,1625.25,82,6,2,0,repeat purchase
+343,1065,2022-12-31T07:49:55,DE,web,groceries,3897.68,93,2,3,0,high value item
+344,1094,2024-11-15T06:31:28,US,mobile_app,gaming,2115.93,57,3,6,0,high value item
+345,1126,2024-12-15T20:41:33,AU,mobile_app,luxury,4007.92,26,2,3,1,repeat purchase
+346,1105,2022-07-13T14:42:46,DE,mobile_app,gaming,409.77,24,3,1,1,VPN suspected
+347,1116,2024-07-10T19:51:16,DE,web,groceries,3735.4,23,22,0,0,high value item
+348,1124,2023-09-13T19:52:39,MY,pos_terminal,luxury,439.09,34,0,1,0,high value item
+349,1137,2023-01-26T02:19:49,JP,mobile_app,luxury,831.36,66,3,3,0,first time merchant
+350,1026,2024-06-03T13:54:31,CN,pos_terminal,travel,186.05,75,4,3,0,repeat purchase
+351,1165,2024-05-04T15:07:31,DE,pos_terminal,gaming,2181.71,34,3,1,0,first time merchant
+352,1075,2024-03-10T13:53:43,CN,mobile_app,luxury,4222.81,46,0,1,0,VPN suspected
+353,1077,2023-04-26T06:35:03,AU,mobile_app,gaming,874.4,74,0,0,0,new device
+354,1011,2023-07-02T04:54:44,US,pos_terminal,electronics,4633.23,68,6,0,0,
+355,1026,2022-12-09T20:07:55,CN,mobile_app,groceries,3541.11,73,0,2,0,
+356,1001,2023-05-18T15:21:18,MY,web,gaming,3774.47,95,6,3,0,VPN suspected
+357,1132,2024-01-11T00:28:09,US,pos_terminal,travel,424.81,31,3,1,0,high value item
+358,1075,2024-05-08T12:56:43,CN,mobile_app,gaming,40.5,77,1,3,0,first time merchant
+359,1166,2024-04-08T06:56:19,JP,pos_terminal,N/A,3594.68,76,2,2,0,new device
+360,1077,2024-05-15T16:07:46,CN,mobile_app,gaming,1773.01,93,3,0,0,
+361,1160,2024-12-28T19:14:22,US,pos_terminal,travel,3572.04,41,4,2,0,VPN suspected
+362,1033,2024-09-02T06:28:04,AU,pos_terminal,luxury,2595.21,43,5,3,0,high value item
+363,1032,2024-09-19T22:29:08,US,pos_terminal,groceries,164.0,81,0,3,0,overnight shipping
+364,1095,2023-09-14T09:31:01,SG,web,travel,4684.17,46,6,0,0,
+365,1115,2023-11-23T12:30:53,US,pos_terminal,groceries,2524.31,67,1,2,0,first time merchant
+366,1138,2022-04-04T21:56:28,SG,pos_terminal,electronics,3536.34,49,0,0,0,first time merchant
+367,1121,2024-10-26T00:07:42,SG,web,gaming,1227.19,84,6,2,1,
+368,1006,2024-12-17T10:24:16,US,web,travel,721.03,21,3,0,0,repeat purchase
+369,1036,2024-04-25T10:16:24,US,web,groceries,2985.43,N/A,3,2,0,VPN suspected
+370,1004,2023-07-06T17:37:43,CN,pos_terminal,groceries,2034.32,91,6,2,0,new device
+371,1115,2022-03-27T00:52:29,DE,pos_terminal,groceries,9667.53,86,5,2,0,
+372,1144,2022-05-24T09:05:25,UK,web,travel,4391.52,74,2,2,0,high value item
+373,1087,2023-03-08T14:38:21,UK,pos_terminal,groceries,11.24,11,3,3,0,
+374,1171,2024-06-30T21:07:22,UK,pos_terminal,gaming,4195.89,11,2,9,1,overnight shipping
+375,1157,2023-09-13T22:14:14,AU,web,gaming,3520.53,10,6,0,0,VPN suspected
+376,1172,2022-12-26T02:37:08,UK,web,gaming,4277.54,45,5,2,0,repeat purchase
+377,1013,2023-10-24T13:54:26,CN,pos_terminal,travel,1808.0,38,3,5,0,first time merchant
+378,1176,2024-05-17T02:58:15,UK,mobile_app,gaming,3126.85,65,4,2,0,VPN suspected
+379,1085,2024-11-30T07:04:49,DE,mobile_app,electronics,2895.09,17,3,0,1,
+380,1016,2022-07-28T21:03:35,UK,mobile_app,luxury,3760.06,86,4,3,0,first time merchant
+381,1006,2024-07-18T16:21:37,US,web,electronics,338.65,34,1,2,0,first time merchant
+382,1015,2022-09-19T09:37:27,CN,pos_terminal,gaming,4426.22,28,4,2,0,high value item
+383,1143,2022-04-22T13:22:12,CN,web,gaming,2379.15,69,2,2,0,new device
+384,1126,2023-03-26T00:40:14,AU,mobile_app,travel,2404.25,,3,1,1,repeat purchase
+385,1112,2023-02-03T20:37:58,MY,web,electronics,1421.22,43,2,1,0,
+386,1035,2024-02-16T20:50:56,MY,web,gaming,1848.83,31,6,3,1,new device
+387,1136,2024-02-14T22:23:20,SG,pos_terminal,groceries,3815.65,78,1,0,0,new device
+388,1053,2022-06-16T15:50:42,AU,web,travel,4412.23,57,3,2,0,VPN suspected
+389,1149,2022-03-16T06:14:57,CN,web,luxury,2125.69,30,2,0,0,VPN suspected
+390,1131,2023-11-20T13:28:29,US,mobile_app,luxury,1912.47,39,0,0,0,first time merchant
+391,1025,2022-08-31T02:23:02,SG,mobile_app,groceries,1250.87,45,4,6,0,overnight shipping
+392,1148,2022-01-25T15:41:32,SG,mobile_app,groceries,3745.94,76,4,3,1,
+393,1053,2024-06-17T14:54:35,AU,web,travel,1528.55,73,6,1,0,VPN suspected
+394,1150,2022-02-17T18:50:02,SG,mobile_app,travel,3015.41,60,1,0,0,repeat purchase
+395,1077,2022-07-10T05:06:43,CN,web,travel,934.27,59,1,0,0,repeat purchase
+396,1040,2022-08-15T04:34:26,DE,web,luxury,4328.63,36,6,3,0,overnight shipping
+397,1070,2023-02-18T00:09:28,MY,mobile_app,travel,2629.76,72,4,0,0,VPN suspected
+398,1100,2022-12-25T13:15:11,UK,pos_terminal,luxury,4554.25,82,5,1,0,high value item
+399,1055,2024-10-07T13:48:35,AU,mobile_app,electronics,2522.47,62,2,0,0,high value item
+400,1102,2023-02-03T12:02:00,DE,pos_terminal,groceries,3743.63,18,5,3,0,
+401,1045,2023-08-26T03:34:47,CN,web,electronics,768.33,37,5,3,0,
+402,1026,2024-03-10T22:19:28,CN,web,electronics,3835.8,57,1,4,0,new device
+403,1024,2022-12-10T23:10:02,DE,web,gaming,3134.31,79,3,1,0,repeat purchase
+404,1117,2023-03-27T02:42:52,CN,pos_terminal,gaming,4427.41,86,0,1,0,overnight shipping
+405,1177,2022-09-30T10:11:40,AU,pos_terminal,gaming,3332.19,12,4,1,0,repeat purchase
+406,1079,2023-04-30T23:27:48,UK,web,electronics,2494.13,58,0,3,0,NA
+407,1165,2023-08-14T00:14:54,DE,mobile_app,NA,271.32,41,5,3,0,high value item
+408,1162,2022-10-17T06:08:05,AU,pos_terminal,groceries,391.74,49,1,1,0,first time merchant
+409,1123,2022-06-13T11:25:24,JP,mobile_app,luxury,3674.91,71,3,0,0,first time merchant
+410,1097,2024-08-07T09:29:18,UK,pos_terminal,luxury,684.15,29,0,2,0,VPN suspected
+411,1164,2022-05-26T13:56:02,US,mobile_app,travel,3814.99,54,3,2,0,NA
+412,1161,2022-02-27T22:42:41,MY,pos_terminal,luxury,737.69,84,6,0,0,VPN suspected
+413,1132,2023-01-22T13:10:53,US,pos_terminal,gaming,2666.47,85,3,0,0,
+414,1101,2023-09-23T00:10:52,JP,web,electronics,2089.78,46,1,1,0,new device
+415,1054,2023-01-16T06:03:47,SG,web,gaming,4358.21,89,5,2,0,repeat purchase
+416,1172,2022-07-26T00:03:17,UK,web,travel,210.25,10,4,2,0,overnight shipping
+417,1087,2023-10-08T07:23:42,UK,pos_terminal,electronics,4365.51,10,5,4,0,overnight shipping
+418,1115,2024-08-31T16:26:42,US,pos_terminal,gaming,6801.03,51,1,3,0,overnight shipping
+419,1168,2022-07-25T23:24:18,SG,pos_terminal,groceries,4381.29,74,3,2,0,
+420,1123,2023-05-09T07:13:10,JP,pos_terminal,electronics,4966.81,51,6,2,0,high value item
+421,1125,2022-07-05T22:21:55,US,pos_terminal,travel,1716.79,58,6,3,0,repeat purchase
+422,1151,2023-01-21T23:07:36,US,mobile_app,luxury,9.39,78,3,2,0,
+423,1027,2024-03-20T00:34:54,AU,web,gaming,2499.66,86,5,0,0,high value item
+424,1122,2023-03-18T15:18:45,MY,mobile_app,groceries,1053.85,38,0,1,0,overnight shipping
+425,1005,2024-03-14T10:27:43,SG,mobile_app,luxury,2639.69,34,4,1,0,
+426,1117,2022-12-02T18:08:28,CN,mobile_app,groceries,4021.99,93,5,0,0,new device
+427,1043,2022-04-26T03:22:30,US,web,electronics,3250.84,29,3,0,0,high value item
+428,1177,2022-07-03T14:55:52,AU,mobile_app,luxury,600.88,72,4,3,0,
+429,1179,2024-06-07T09:36:08,UK,web,travel,4064.53,81,6,3,0,first time merchant
+430,1053,2022-08-29T05:55:38,AU,web,travel,1572.17,83,1,2,0,repeat purchase
+431,1108,2022-01-01T07:19:02,DE,pos_terminal,travel,2885.78,76,2,1,0,repeat purchase
+432,1055,2022-10-02T19:35:13,AU,mobile_app,groceries,2110.65,43,1,0,0,high value item
+433,1068,2023-01-30T22:23:36,MY,pos_terminal,travel,4108.02,65,4,2,0,first time merchant
+434,1085,2023-07-14T04:55:51,DE,web,electronics,4843.9,23,0,2,0,repeat purchase
+435,1141,2023-07-10T19:06:57,CN,mobile_app,luxury,4030.62,78,6,1,0,high value item
+436,1068,2022-04-19T23:40:23,MY,web,travel,2289.48,55,4,3,0,
+437,1078,2024-04-12T10:54:05,JP,web,groceries,826.4,46,3,0,0,first time merchant
+438,1175,2024-12-26T22:07:25,US,web,electronics,3513.26,41,5,0,0,high value item
+439,1044,2022-06-03T11:53:08,MY,web,luxury,853.25,53,1,0,0,overnight shipping
+440,1055,2023-09-17T20:32:52,AU,mobile_app,NA,288.43,68,2,2,0,overnight shipping
+441,1131,2022-11-11T13:07:58,US,web,gaming,1977.4,64,4,0,0,VPN suspected
+442,1091,2023-02-11T03:12:18,JP,mobile_app,luxury,4505.09,35,5,0,0,
+443,1102,2024-10-24T23:59:47,DE,mobile_app,groceries,540.29,29,0,1,0,VPN suspected
+444,1074,2023-08-01T15:05:48,US,pos_terminal,groceries,935.11,24,5,3,0,
+445,1048,2022-11-01T07:07:08,CN,mobile_app,groceries,2132.09,21,3,2,0,new device
+446,1164,2022-04-16T09:07:17,CN,mobile_app,luxury,4475.64,10,5,2,0,repeat purchase
+447,1085,2023-09-16T03:06:42,DE,pos_terminal,groceries,3706.72,85,2,2,0,repeat purchase
+448,1150,2023-01-26T06:45:28,US,pos_terminal,travel,3627.03,35,1,1,0,
+449,1093,2024-07-07T20:45:07,US,mobile_app,luxury,4762.27,31,5,8,1,high value item
+450,1136,2024-11-17T02:10:28,SG,mobile_app,travel,2004.84,120,1,0,0,VPN suspected
+451,1056,2023-08-30T22:17:35,AU,web,electronics,1459.92,45,2,0,0,
+452,1161,2024-01-26T10:05:45,MY,mobile_app,groceries,3057.8,17,0,1,0,overnight shipping
+453,1149,2022-08-06T23:47:44,CN,pos_terminal,gaming,3171.89,66,2,3,0,high value item
+454,1126,2023-01-07T14:11:52,AU,web,travel,3647.67,12,1,1,0,new device
+455,1134,2022-10-09T23:48:51,US,web,,551.07,92,1,0,0,first time merchant
+456,1086,2022-06-24T06:08:30,UK,mobile_app,groceries,2395.06,79,5,0,0,overnight shipping
+457,1000,2023-04-05T00:14:27,US,mobile_app,gaming,4395.07,24,0,2,0,repeat purchase
+458,1011,2022-11-06T05:27:33,US,web,luxury,3336.7,46,0,3,0,
+459,1038,2022-10-28T10:09:24,UK,mobile_app,electronics,2137.84,28,1,3,0,VPN suspected
+460,1085,2022-10-11T20:58:15,DE,pos_terminal,luxury,2463.51,39,4,1,0,repeat purchase
+461,1121,2022-10-01T03:03:58,MY,web,gaming,4176.43,NA,6,1,0,new device
+462,1179,2022-08-06T21:37:04,UK,pos_terminal,groceries,1826.86,19,6,1,0,new device
+463,1105,2023-11-22T14:50:41,DE,mobile_app,electronics,4405.9,32,0,3,0,first time merchant
+464,1078,2023-04-11T13:59:10,JP,web,travel,4755.41,61,1,0,0,overnight shipping
+465,1013,2024-01-31T20:27:12,CN,web,electronics,3894.21,40,4,1,0,overnight shipping
+466,1061,2023-07-06T02:36:36,CN,mobile_app,electronics,466.96,55,3,2,0,new device
+467,1128,2022-07-26T16:51:49,CN,pos_terminal,luxury,4344.19,30,3,0,0,new device
+468,1041,2024-10-24T16:46:38,AU,mobile_app,luxury,1695.76,65,5,3,0,first time merchant
+469,1127,2022-07-19T00:09:49,DE,pos_terminal,electronics,2274.58,47,2,2,0,
+470,1113,2022-10-15T03:36:31,DE,mobile_app,luxury,3098.8,66,6,2,0,first time merchant
+471,1010,2022-04-27T23:50:15,MY,pos_terminal,electronics,527.38,82,0,3,0,VPN suspected
+472,1021,2023-01-05T23:06:58,UK,mobile_app,groceries,323.29,87,5,0,1,new device
+473,1145,2022-03-06T19:49:24,AU,mobile_app,luxury,1067.89,12,5,2,0,repeat purchase
+474,1115,2024-05-09T16:13:42,US,web,electronics,4508.31,48,2,3,0,new device
+475,1146,2024-03-07T00:35:50,JP,web,electronics,2892.87,95,5,7,0,VPN suspected
+476,1104,2023-06-23T16:46:00,SG,pos_terminal,luxury,2892.31,34,4,3,0,NA
+477,1004,2023-09-11T09:32:52,CN,pos_terminal,luxury,2280.53,55,3,2,0,VPN suspected
+478,1111,2024-02-21T09:54:42,JP,mobile_app,gaming,4689.57,22,6,0,0,VPN suspected
+479,1139,2022-07-24T20:28:32,DE,web,gaming,1060.14,80,1,0,0,VPN suspected
+480,1101,2022-01-16T11:50:14,JP,mobile_app,gaming,4513.46,105,0,1,0,first time merchant
+481,1146,2024-05-30T07:35:25,JP,pos_terminal,luxury,4006.86,26,3,1,0,new device
+482,1129,2022-08-31T20:36:50,MY,pos_terminal,gaming,796.11,N/A,3,9,0,repeat purchase
+483,1116,2024-01-04T05:15:41,DE,mobile_app,groceries,1227.03,58,5,0,0,high value item
+484,1152,2022-09-09T03:09:18,AU,web,electronics,4223.27,36,3,3,0,repeat purchase
+485,1162,2024-07-12T05:11:19,AU,web,travel,4274.19,,3,0,0,repeat purchase
+486,1039,2023-03-19T11:07:57,US,mobile_app,groceries,3638.99,44,1,2,0,VPN suspected
+487,1102,2023-01-31T08:11:12,DE,pos_terminal,gaming,515.37,85,6,3,0,first time merchant
+488,1155,2024-02-24T13:12:36,CN,pos_terminal,electronics,4447.36,42,2,2,0,
+489,1018,2023-03-17T21:23:23,JP,mobile_app,electronics,8441.46,37,6,1,0,first time merchant
+490,1155,2022-06-03T18:57:41,CN,mobile_app,gaming,991.55,73,2,0,0,first time merchant
+491,1164,2022-01-10T14:18:08,CN,mobile_app,electronics,4590.25,92,3,3,0,
+492,1126,2022-04-07T12:19:44,JP,pos_terminal,electronics,4688.58,38,0,2,0,new device
+493,1094,2022-01-11T22:55:03,US,web,electronics,1522.15,88,3,1,0,repeat purchase
+494,1105,2024-07-04T21:07:33,DE,pos_terminal,luxury,4881.77,71,2,0,0,new device
+495,1019,2022-06-03T15:03:13,DE,web,luxury,940.4,36,6,2,0,VPN suspected
+496,1033,2023-03-25T11:24:28,AU,pos_terminal,groceries,940.58,NA,6,0,0,high value item
+497,1007,2024-09-02T21:33:28,US,web,travel,2157.94,74,2,2,0,VPN suspected
+498,1103,2022-12-28T19:17:33,MY,pos_terminal,luxury,250.31,24,0,2,0,overnight shipping
+499,1100,2024-03-15T03:14:46,UK,pos_terminal,gaming,855.97,91,4,0,0,high value item
+500,1176,2023-05-04T05:20:43,UK,web,gaming,710.03,70,0,2,0,
+501,1149,2022-01-03T15:55:15,CN,web,electronics,4952.08,77,6,0,0,overnight shipping
+502,1065,2024-09-23T08:23:29,DE,mobile_app,gaming,4456.97,86,2,0,0,new device
+503,1062,2024-06-01T11:13:47,SG,mobile_app,electronics,4385.84,67,4,2,0,VPN suspected
+504,1148,2024-12-01T22:21:53,US,mobile_app,luxury,3962.84,24,3,1,0,overnight shipping
+505,1073,2022-05-13T09:00:29,DE,mobile_app,travel,2442.34,55,0,1,0,
+506,1022,2023-07-09T04:46:12,UK,web,gaming,2366.42,91,3,0,0,first time merchant
+507,1082,2022-10-13T21:49:12,DE,mobile_app,travel,1525.68,90,1,3,0,high value item
+508,1119,2023-12-27T13:29:26,JP,web,travel,3834.08,27,2,2,0,first time merchant
+509,1032,2024-04-05T21:00:29,AU,pos_terminal,luxury,424.21,93,4,2,0,
+510,1013,2023-02-24T16:09:35,CN,mobile_app,groceries,3378.73,N/A,5,0,0,new device
+511,1133,2022-07-18T07:13:06,JP,pos_terminal,luxury,4630.3,71,6,2,0,
+512,1005,2023-01-14T04:52:47,SG,web,travel,2733.86,47,0,3,0,VPN suspected
+513,1108,2022-10-31T00:18:29,DE,mobile_app,electronics,171.38,,0,2,0,high value item
+514,1128,2023-03-08T11:57:45,CN,pos_terminal,electronics,757.86,82,5,1,0,overnight shipping
+515,1123,2024-02-11T15:38:42,JP,pos_terminal,travel,2627.64,51,4,3,1,high value item
+516,1173,2024-09-02T10:48:14,CN,web,groceries,1921.03,18,2,0,0,high value item
+517,1178,2024-07-09T12:08:40,UK,web,groceries,2188.14,,3,1,1,high value item
+518,1092,2024-04-15T18:34:55,US,web,travel,4162.18,70,2,1,0,high value item
+519,1132,2023-09-03T03:07:31,US,pos_terminal,travel,1120.88,42,2,1,0,first time merchant
+520,1079,2024-03-28T19:03:34,UK,web,travel,4587.04,13,3,2,1,new device
+521,1169,2022-05-08T07:31:04,JP,pos_terminal,travel,3828.11,19,4,0,0,N/A
+522,1057,2023-12-19T13:30:19,CN,web,electronics,132.74,35,6,0,0,
+523,1140,2022-10-10T03:28:07,UK,mobile_app,gaming,2183.19,39,0,0,1,high value item
+524,1112,2023-01-05T09:02:20,MY,pos_terminal,groceries,649.45,94,0,1,0,overnight shipping
+525,1077,2024-01-22T17:18:55,CN,pos_terminal,gaming,2707.55,54,5,3,0,new device
+526,1141,2023-03-08T03:23:46,CN,web,electronics,3492.01,68,0,0,0,overnight shipping
+527,1156,2024-02-26T15:01:55,MY,mobile_app,electronics,1897.26,78,2,2,0,
+528,1151,2023-03-20T00:21:46,US,mobile_app,luxury,4642.9,23,5,2,0,VPN suspected
+529,1066,2022-11-29T12:29:47,CN,web,electronics,3413.31,41,2,6,0,high value item
+530,1003,2022-09-12T09:36:42,CN,mobile_app,groceries,87.32,14,3,1,0,repeat purchase
+531,1016,2024-06-21T05:16:49,UK,mobile_app,luxury,3152.06,89,1,0,0,VPN suspected
+532,1015,2023-06-15T08:01:43,CN,mobile_app,travel,3003.29,19,0,1,0,
+533,1072,2022-10-21T00:20:38,UK,mobile_app,luxury,1874.2,47,1,2,0,repeat purchase
+534,1130,2023-12-06T06:24:53,CN,pos_terminal,groceries,4989.11,19,1,3,0,first time merchant
+535,1133,2024-06-22T10:17:12,JP,mobile_app,groceries,3995.23,39,5,1,0,VPN suspected
+536,1092,2024-09-18T19:14:28,US,web,travel,4933.74,41,3,1,0,overnight shipping
+537,1037,2024-10-09T20:56:49,US,web,luxury,5603.94,80,3,1,0,repeat purchase
+538,1135,2024-03-05T13:22:08,SG,pos_terminal,groceries,596.03,53,4,0,0,VPN suspected
+539,1111,2023-08-16T15:44:08,JP,pos_terminal,travel,4683.17,10,2,3,0,first time merchant
+540,1059,2023-09-01T15:21:03,US,pos_terminal,travel,4640.29,59,1,0,0,high value item
+541,1157,2023-10-06T03:22:18,US,mobile_app,gaming,1118.94,43,6,1,0,new device
+542,1153,2022-03-23T17:34:51,MY,mobile_app,electronics,1409.91,64,4,3,0,high value item
+543,1126,2023-06-23T02:55:08,US,mobile_app,electronics,1112.99,30,2,0,0,repeat purchase
+544,1081,2023-01-25T17:42:53,SG,web,electronics,2932.13,38,2,3,0,overnight shipping
+545,1132,2023-03-15T00:27:04,US,pos_terminal,groceries,195.02,88,4,2,0,new device
+546,1171,2024-09-20T15:50:40,JP,mobile_app,travel,483.57,46,3,3,0,overnight shipping
+547,1032,2024-09-17T15:38:26,AU,web,gaming,1076.32,62,6,2,0,VPN suspected
+548,1056,2023-11-27T20:52:02,AU,mobile_app,NA,833.51,90,4,1,1,high value item
+549,1090,2022-05-10T20:03:33,SG,pos_terminal,groceries,4190.91,,1,2,0,new device
+550,1134,2022-07-29T16:25:50,US,web,gaming,1150.8,41,5,3,0,high value item
+551,1129,2024-04-30T00:00:47,MY,pos_terminal,groceries,2941.39,87,6,0,0,repeat purchase
+552,1074,2024-05-29T02:14:26,US,mobile_app,gaming,2666.49,12,5,2,0,VPN suspected
+553,1059,2024-07-04T11:30:36,US,mobile_app,gaming,3149.94,81,6,1,0,
+554,1059,2022-05-01T15:16:26,US,mobile_app,groceries,3445.3,10,1,3,0,high value item
+555,1142,2022-06-16T03:27:44,CN,web,electronics,3741.0,66,0,3,0,first time merchant
+556,1102,2022-01-19T09:07:27,DE,pos_terminal,gaming,1858.79,28,5,2,0,VPN suspected
+557,1034,2022-12-03T16:45:53,DE,mobile_app,luxury,2353.0,10,1,0,0,repeat purchase
+558,1162,2023-04-08T11:40:00,DE,mobile_app,luxury,1529.45,61,4,1,0,high value item
+559,1032,2024-12-05T18:41:49,AU,pos_terminal,travel,4833.33,88,3,0,0,repeat purchase
+560,1121,2022-01-01T10:04:57,SG,pos_terminal,luxury,2358.97,25,3,3,0,
+561,1054,2022-12-07T20:53:17,SG,mobile_app,travel,3475.8,25,3,6,0,
+562,1143,2023-01-27T12:23:11,MY,web,luxury,975.25,52,2,0,1,overnight shipping
+563,1064,2023-07-16T20:03:36,UK,pos_terminal,luxury,3161.57,70,5,4,0,high value item
+564,1033,2022-06-19T13:53:54,AU,mobile_app,electronics,4289.59,34,5,2,0,N/A
+565,1103,2024-05-02T21:42:03,MY,pos_terminal,groceries,420.76,45,5,1,0,repeat purchase
+566,1119,2022-06-26T18:59:29,AU,web,groceries,929.11,12,6,2,0,new device
+567,1048,2022-09-29T09:03:24,CN,web,gaming,1578.39,34,1,2,0,repeat purchase
+568,1164,2024-12-07T14:53:40,CN,web,electronics,2926.53,82,5,2,0,first time merchant
+569,1131,2023-03-08T08:13:29,US,web,travel,932.94,NA,4,0,0,overnight shipping
+570,1086,2022-07-25T05:58:22,UK,mobile_app,travel,109.73,68,5,3,0,high value item
+571,1076,2022-03-24T07:48:59,US,mobile_app,luxury,4769.96,13,1,1,0,new device
+572,1023,2023-09-26T04:51:22,AU,web,luxury,5737.46,48,1,1,0,new device
+573,1122,2022-11-23T11:06:30,AU,mobile_app,groceries,3342.52,41,0,2,0,
+574,1108,2024-03-17T17:04:22,DE,pos_terminal,travel,4428.06,40,2,0,0,repeat purchase
+575,1054,2023-09-11T13:05:21,SG,web,luxury,1556.15,71,3,3,0,VPN suspected
+576,1167,2024-04-08T00:10:20,CN,pos_terminal,luxury,58.93,95,6,3,0,first time merchant
+577,1121,2023-11-18T17:23:07,MY,mobile_app,travel,4351.7,10,5,1,0,
+578,1031,2024-09-29T14:23:03,US,pos_terminal,gaming,1687.97,13,1,6,0,N/A
+579,1101,2023-05-25T05:05:34,JP,pos_terminal,groceries,2156.07,68,1,6,0,new device
+580,1025,2024-02-22T16:46:05,SG,pos_terminal,gaming,112.89,42,5,3,0,first time merchant
+581,1062,2022-04-11T11:36:30,SG,mobile_app,gaming,3891.77,95,3,2,0,repeat purchase
+582,1118,2023-10-14T03:14:14,SG,mobile_app,groceries,1439.87,68,5,3,0,overnight shipping
+583,1118,2024-10-18T06:34:44,SG,mobile_app,gaming,3303.83,20,4,0,0,overnight shipping
+584,1119,2022-03-02T04:39:37,AU,mobile_app,travel,4979.13,46,3,3,0,first time merchant
+585,1054,2022-08-15T18:18:11,SG,pos_terminal,luxury,1760.77,86,6,0,0,high value item
+586,1100,2023-04-07T12:31:48,UK,mobile_app,groceries,888.96,78,6,1,0,first time merchant
+587,1162,2022-03-01T19:14:08,AU,pos_terminal,electronics,3661.01,51,1,3,0,repeat purchase
+588,1141,2024-11-13T06:54:58,CN,mobile_app,groceries,4685.77,51,0,1,0,high value item
+589,1118,2024-10-21T20:07:51,SG,mobile_app,groceries,3610.51,14,3,3,1,VPN suspected
+590,1155,2024-12-29T22:01:28,CN,pos_terminal,electronics,1992.59,15,5,3,0,new device
+591,1028,2022-12-13T11:26:42,US,web,luxury,486.53,19,5,1,0,high value item
+592,1145,2023-07-18T19:02:48,AU,pos_terminal,gaming,4400.97,47,5,2,0,overnight shipping
+593,1155,2023-08-22T12:16:40,CN,web,travel,2921.59,75,4,1,0,first time merchant
+594,1124,2022-12-13T16:30:11,MY,mobile_app,electronics,324.7,36,2,0,0,N/A
+595,1134,2023-04-13T23:12:23,US,mobile_app,electronics,2537.58,78,4,0,0,new device
+596,1166,2023-05-17T07:44:45,JP,web,travel,1388.11,18,1,0,0,
+597,1013,2023-10-16T20:04:12,CN,mobile_app,electronics,500.28,86,27,0,0,high value item
+598,1116,2022-01-02T08:48:26,DE,mobile_app,groceries,2416.92,92,6,2,0,overnight shipping
+599,1046,2024-09-25T00:20:57,JP,mobile_app,groceries,3802.43,22,3,1,1,new device
+600,1135,2024-08-24T03:43:19,CN,pos_terminal,groceries,960.33,31,4,2,0,high value item
+601,1058,2023-06-23T15:59:54,DE,mobile_app,groceries,3633.82,50,3,7,1,VPN suspected
+602,1070,2022-02-09T22:12:13,MY,mobile_app,gaming,119.37,58,4,1,0,overnight shipping
+603,1122,2024-08-20T01:49:42,AU,pos_terminal,luxury,4934.66,17,5,2,0,VPN suspected
+604,1105,2022-11-07T04:37:19,DE,pos_terminal,electronics,1639.88,94,4,0,0,
+605,1092,2024-07-02T23:56:13,US,mobile_app,groceries,1665.73,43,5,1,0,VPN suspected
+606,1015,2024-11-15T11:01:36,CN,web,travel,1636.02,46,5,0,0,
+607,1022,2024-08-17T19:41:12,UK,pos_terminal,luxury,2329.11,29,0,2,0,N/A
+608,1075,2022-01-14T19:53:24,CN,web,gaming,1295.01,51,5,2,0,first time merchant
+609,1046,2022-07-26T00:34:38,MY,web,travel,347.27,NA,1,3,0,new device
+610,1096,2022-02-22T14:55:47,SG,web,luxury,2193.3,58,0,1,0,first time merchant
+611,1125,2024-01-04T23:20:26,US,web,travel,1277.17,68,3,3,0,overnight shipping
+612,1166,2023-09-08T07:44:05,JP,mobile_app,luxury,9821.17,N/A,6,0,0,high value item
+613,1169,2023-08-24T11:39:26,JP,mobile_app,groceries,2593.48,95,0,0,0,high value item
+614,1007,2022-02-22T10:01:56,US,pos_terminal,groceries,233.45,86,1,0,0,VPN suspected
+615,1106,2024-06-20T04:54:38,AU,web,gaming,4497.85,51,2,0,0,
+616,1036,2023-04-07T21:05:47,JP,mobile_app,gaming,527.04,33,2,3,0,first time merchant
+617,1083,2024-05-14T11:42:09,SG,web,luxury,3971.18,11,0,1,0,first time merchant
+618,1147,2024-04-10T14:13:29,JP,pos_terminal,luxury,1397.25,53,1,3,0,repeat purchase
+619,1016,2024-01-19T13:41:01,SG,web,groceries,4150.56,47,2,3,0,
+620,1130,2023-02-04T04:53:43,CN,web,groceries,1770.33,29,4,2,0,first time merchant
+621,1162,2023-04-09T22:09:34,UK,web,NA,4845.76,59,3,3,0,overnight shipping
+622,1053,2022-05-17T01:48:26,AU,mobile_app,groceries,4035.13,41,1,3,0,overnight shipping
+623,1102,2022-09-10T23:47:37,SG,web,luxury,1378.08,91,2,3,0,
+624,1018,2023-12-01T08:02:24,JP,mobile_app,electronics,2130.13,72,1,0,0,first time merchant
+625,1126,2024-06-04T13:03:40,AU,mobile_app,gaming,3201.69,95,2,0,0,first time merchant
+626,1026,2024-09-26T17:38:53,CN,pos_terminal,travel,3338.12,23,6,0,0,
+627,1154,2024-05-13T12:45:47,CN,pos_terminal,luxury,2867.15,61,5,3,1,first time merchant
+628,1074,2024-04-24T00:46:29,US,mobile_app,gaming,1720.9,41,6,3,0,
+629,1140,2023-10-22T23:25:48,UK,web,luxury,1669.48,39,2,0,0,VPN suspected
+630,1124,2023-12-20T10:51:28,MY,web,groceries,558.29,74,4,1,0,new device
+631,1169,2024-04-08T08:09:45,JP,mobile_app,luxury,1926.82,47,0,1,0,
+632,1177,2023-03-25T07:56:14,AU,web,groceries,6218.4,88,3,1,0,first time merchant
+633,1099,2023-06-20T22:50:23,UK,mobile_app,luxury,4500.36,50,0,1,0,high value item
+634,1129,2024-09-01T17:20:06,MY,pos_terminal,groceries,3588.11,80,1,0,0,first time merchant
+635,1143,2024-07-07T17:41:03,DE,mobile_app,groceries,1772.71,45,5,3,0,new device
+636,1137,2023-09-16T10:14:36,JP,pos_terminal,luxury,2698.52,50,4,2,0,repeat purchase
+637,1049,2023-05-25T19:49:48,SG,web,luxury,1659.62,61,5,3,0,
+638,1110,2023-06-01T15:05:11,SG,web,groceries,3236.48,N/A,4,0,0,NA
+639,1098,2023-09-20T00:51:57,US,mobile_app,electronics,943.22,33,2,1,0,VPN suspected
+640,1038,2024-06-30T00:39:02,US,mobile_app,gaming,3415.48,31,3,1,0,VPN suspected
+641,1114,2022-08-27T21:35:04,SG,mobile_app,groceries,4088.11,61,0,3,0,high value item
+642,1023,2023-10-19T16:36:36,AU,pos_terminal,,3216.35,27,1,3,0,VPN suspected
+643,1099,2023-09-19T15:50:49,UK,pos_terminal,NA,209.12,49,5,1,0,first time merchant
+644,1137,2022-04-18T21:55:27,JP,pos_terminal,groceries,3405.99,37,1,2,0,new device
+645,1097,2023-02-26T22:07:59,UK,web,gaming,4935.44,57,3,1,0,overnight shipping
+646,1160,2023-09-27T06:56:41,US,mobile_app,luxury,2080.02,45,1,3,1,high value item
+647,1169,2023-04-02T02:40:07,JP,mobile_app,electronics,1637.57,42,5,3,0,
+648,1051,2022-06-27T17:54:31,DE,pos_terminal,electronics,547.61,59,6,0,0,VPN suspected
+649,1169,2024-10-28T06:49:13,JP,web,travel,5763.55,42,2,0,0,overnight shipping
+650,1085,2024-06-17T00:55:28,DE,web,travel,2784.71,50,5,0,0,overnight shipping
+651,1059,2022-01-13T12:00:36,US,mobile_app,travel,1123.37,82,0,3,0,overnight shipping
+652,1060,2024-10-01T19:16:22,JP,mobile_app,groceries,4397.34,46,1,3,0,overnight shipping
+653,1010,2024-07-30T13:45:56,MY,web,luxury,3132.87,61,3,3,0,overnight shipping
+654,1135,2023-02-26T07:13:45,SG,web,travel,2317.42,62,2,1,0,VPN suspected
+655,1159,2024-04-24T01:12:13,CN,web,luxury,2159.49,13,3,1,0,first time merchant
+656,1050,2022-11-05T13:20:29,UK,pos_terminal,groceries,2433.94,88,5,0,0,repeat purchase
+657,1023,2023-10-04T11:12:47,AU,web,gaming,1815.34,84,3,1,0,first time merchant
+658,1030,2024-12-26T19:26:10,UK,pos_terminal,luxury,1406.89,41,5,3,1,VPN suspected
+659,1150,2024-01-13T14:37:36,CN,web,luxury,2834.35,20,0,2,0,repeat purchase
+660,1162,2023-10-19T09:45:50,US,mobile_app,travel,2474.25,NA,1,2,0,first time merchant
+661,1013,2023-05-05T22:19:16,CN,mobile_app,gaming,3750.24,NA,2,1,0,repeat purchase
+662,1120,2024-02-18T12:02:44,SG,pos_terminal,luxury,4015.93,64,2,2,0,VPN suspected
+663,1171,2022-06-23T21:58:20,JP,web,electronics,4031.33,19,0,1,0,repeat purchase
+664,1158,2022-05-25T04:37:40,JP,pos_terminal,gaming,530.06,27,5,1,0,repeat purchase
+665,1020,2024-03-03T10:40:33,MY,web,luxury,931.14,85,0,0,0,overnight shipping
+666,1179,2022-09-11T22:48:04,UK,mobile_app,groceries,3176.85,86,5,3,0,new device
+667,1064,2023-07-31T05:04:03,UK,mobile_app,electronics,4088.7,67,5,2,0,overnight shipping
+668,1145,2023-06-22T23:53:20,AU,pos_terminal,luxury,1501.94,79,1,6,0,VPN suspected
+669,1103,2024-08-07T14:28:09,MY,mobile_app,luxury,4366.94,58,5,10,0,new device
+670,1004,2024-03-12T15:09:17,CN,web,luxury,1518.31,80,1,3,0,new device
+671,1027,2022-05-18T10:45:30,AU,web,groceries,2471.66,72,2,2,0,VPN suspected
+672,1087,2024-02-04T22:55:08,UK,mobile_app,electronics,6850.04,51,6,3,0,first time merchant
+673,1082,2023-04-14T22:37:39,DE,web,luxury,4452.89,22,1,0,0,high value item
+674,1070,2022-10-21T11:54:49,MY,web,groceries,1636.74,71,6,2,0,first time merchant
+675,1152,2022-09-04T09:46:03,AU,web,travel,1413.0,64,6,2,0,repeat purchase
+676,1119,2022-10-30T14:40:24,AU,pos_terminal,luxury,539.62,45,4,1,0,repeat purchase
+677,1094,2022-10-18T10:53:46,US,web,luxury,1978.29,14,2,0,0,high value item
+678,1035,2022-11-07T03:33:10,CN,web,gaming,1691.45,18,4,3,0,new device
+679,1040,2022-08-25T08:14:15,DE,pos_terminal,travel,3214.87,71,1,1,0,overnight shipping
+680,1004,2024-11-10T09:31:01,CN,pos_terminal,luxury,201.61,36,32,0,0,
+681,1160,2023-07-31T08:35:23,US,web,groceries,1282.13,43,5,0,0,high value item
+682,1010,2024-03-04T03:47:59,MY,web,travel,1493.75,37,6,3,0,first time merchant
+683,1006,2023-09-27T00:13:53,US,mobile_app,groceries,3599.99,68,4,3,0,
+684,1157,2022-08-08T00:54:01,US,web,gaming,1517.93,82,0,1,0,high value item
+685,1005,2023-09-02T01:57:07,SG,mobile_app,,4436.92,36,5,0,0,new device
+686,1148,2023-07-14T08:01:44,US,web,groceries,1988.3,14,6,1,0,repeat purchase
+687,1072,2024-09-08T06:51:17,UK,mobile_app,groceries,-130.39,82,3,3,0,high value item
+688,1116,2024-08-25T17:10:23,DE,mobile_app,travel,1604.24,62,3,2,0,high value item
+689,1092,2024-06-03T02:38:16,US,mobile_app,gaming,2254.39,31,2,1,0,
+690,1052,2024-03-22T02:52:26,JP,pos_terminal,travel,-186.97,95,5,2,0,
+691,1168,2024-03-15T07:36:22,SG,pos_terminal,electronics,3219.87,34,6,0,0,high value item
+692,1053,2022-07-17T06:01:01,AU,web,groceries,3880.56,42,0,2,1,first time merchant
+693,1109,2024-09-06T20:39:37,UK,mobile_app,electronics,1758.13,70,3,0,0,overnight shipping
+694,1097,2022-03-21T15:48:57,UK,mobile_app,travel,1227.7,90,3,2,0,repeat purchase
+695,1115,2023-03-20T19:26:06,US,web,travel,3904.39,66,1,3,0,high value item
+696,1125,2022-12-23T14:18:54,US,mobile_app,travel,549.26,19,3,3,0,new device
+697,1087,2024-10-07T07:45:28,UK,web,electronics,660.86,87,3,8,0,overnight shipping
+698,1071,2024-06-12T17:44:27,AU,web,gaming,3323.85,74,1,1,0,new device
+699,1067,2024-09-05T02:50:42,AU,mobile_app,electronics,1162.01,27,3,0,1,
+700,1081,2023-05-15T15:51:13,SG,mobile_app,luxury,496.14,91,6,1,0,new device
+701,1018,2022-12-04T07:40:48,JP,pos_terminal,gaming,4140.05,65,2,0,0,overnight shipping
+702,1032,2024-09-08T19:50:32,AU,pos_terminal,groceries,2606.77,19,0,0,0,
+703,1118,2023-12-01T09:53:34,SG,mobile_app,luxury,1931.08,85,5,1,0,VPN suspected
+704,1016,2023-05-31T20:17:59,UK,mobile_app,travel,1565.95,40,2,1,0,VPN suspected
+705,1048,2022-10-13T22:18:12,CN,mobile_app,travel,1023.12,76,5,2,0,
+706,1127,2024-02-07T07:25:30,DE,pos_terminal,luxury,732.55,42,3,5,0,overnight shipping
+707,1149,2023-07-22T16:36:26,CN,web,luxury,2448.31,65,0,0,0,repeat purchase
+708,1137,2023-07-04T04:50:06,UK,web,electronics,2833.27,53,5,3,0,first time merchant
+709,1060,2022-11-07T00:35:37,SG,web,groceries,4125.77,88,1,2,0,new device
+710,1042,2022-12-22T07:17:06,CN,pos_terminal,gaming,4304.62,67,0,3,0,high value item
+711,1005,2023-07-11T06:56:43,SG,pos_terminal,gaming,2495.66,66,2,0,0,VPN suspected
+712,1090,2024-04-09T08:15:45,SG,web,NA,2349.1,82,5,0,0,VPN suspected
+713,1022,2024-06-14T08:22:14,UK,mobile_app,luxury,1096.46,76,6,0,0,
+714,1157,2022-04-13T08:05:33,JP,web,gaming,2180.03,33,2,0,0,repeat purchase
+715,1045,2023-08-14T17:30:27,CN,web,electronics,977.73,18,2,1,0,first time merchant
+716,1047,2023-05-19T00:20:54,US,mobile_app,travel,2505.06,60,0,1,0,overnight shipping
+717,1044,2022-08-14T22:15:10,MY,web,electronics,680.39,77,5,3,0,high value item
+718,1103,2023-05-30T16:59:26,MY,mobile_app,groceries,1035.26,57,0,3,0,NA
+719,1163,2022-10-29T14:55:37,US,pos_terminal,groceries,1510.56,12,3,3,0,new device
+720,1037,2022-07-27T09:23:03,US,mobile_app,luxury,1470.46,80,6,0,0,first time merchant
+721,1143,2023-07-07T01:01:32,DE,pos_terminal,gaming,2017.66,68,2,0,0,VPN suspected
+722,1170,2024-11-02T02:09:59,CN,mobile_app,luxury,3176.39,35,3,6,1,new device
+723,1038,2024-05-24T17:36:16,CN,web,electronics,188.27,18,1,3,0,
+724,1120,2023-06-13T18:35:35,SG,pos_terminal,gaming,1633.34,85,2,1,0,VPN suspected
+725,1103,2022-04-16T18:19:51,MY,web,groceries,4222.6,41,1,2,0,first time merchant
+726,1123,2022-05-16T10:59:56,JP,mobile_app,luxury,2366.4,57,1,3,0,new device
+727,1156,2022-12-04T10:10:38,MY,mobile_app,NA,412.47,29,3,1,1,new device
+728,1175,2024-01-02T21:36:05,US,mobile_app,gaming,4981.58,15,6,1,0,VPN suspected
+729,1134,2022-05-27T19:18:08,US,pos_terminal,gaming,3880.6,73,5,3,0,high value item
+730,1078,2023-08-25T20:45:52,JP,web,gaming,1053.53,29,0,0,0,new device
+731,1176,2023-10-18T18:15:45,UK,mobile_app,electronics,3341.68,85,5,3,0,NA
+732,1099,2023-01-18T15:29:42,AU,mobile_app,groceries,3726.66,94,6,10,0,overnight shipping
+733,1037,2022-03-28T04:15:32,US,mobile_app,groceries,2089.93,90,2,2,0,
+734,1085,2024-10-31T08:33:25,DE,pos_terminal,travel,984.11,N/A,5,2,0,repeat purchase
+735,1016,2024-08-29T13:59:29,CN,mobile_app,travel,1324.24,14,5,2,1,new device
+736,1101,2022-01-05T13:03:04,JP,mobile_app,travel,2733.18,74,5,2,0,VPN suspected
+737,1073,2022-08-26T07:59:24,DE,mobile_app,groceries,1002.09,20,1,0,0,high value item
+738,1106,2022-11-28T13:13:46,AU,web,gaming,2712.06,18,1,0,1,
+739,1029,2024-07-13T10:07:32,US,pos_terminal,luxury,2406.73,20,0,3,0,overnight shipping
+740,1022,2022-05-10T05:09:21,UK,pos_terminal,travel,4955.58,54,6,3,0,
+741,1123,2022-05-18T23:14:53,JP,mobile_app,travel,1936.99,35,0,0,1,high value item
+742,1001,2023-10-08T14:05:08,MY,pos_terminal,travel,583.35,73,4,2,0,
+743,1108,2023-08-24T01:54:06,DE,mobile_app,groceries,4078.65,NA,3,2,0,overnight shipping
+744,1023,2022-10-09T16:38:38,AU,mobile_app,electronics,1321.74,25,1,0,0,
+745,1020,2023-09-01T17:42:19,MY,mobile_app,electronics,4389.94,52,0,0,0,repeat purchase
+746,1103,2022-08-07T08:10:37,CN,web,gaming,3242.78,23,0,1,0,
+747,1174,2024-12-07T08:36:50,US,web,luxury,297.8,95,6,2,0,VPN suspected
+748,1031,2024-05-10T08:41:38,US,web,luxury,3734.18,83,5,1,0,new device
+749,1034,2023-03-23T08:07:36,DE,web,electronics,69.79,36,1,0,0,VPN suspected
+750,1169,2023-02-17T20:09:13,JP,web,groceries,4745.77,105,1,0,0,new device
+751,1071,2022-12-29T13:49:00,AU,pos_terminal,electronics,1739.87,67,6,3,0,
+752,1165,2024-09-22T12:14:35,DE,web,electronics,1854.8,22,5,2,1,first time merchant
+753,1064,2023-05-16T21:59:35,UK,pos_terminal,travel,3137.97,10,0,3,1,new device
+754,1108,2023-05-30T22:51:17,DE,pos_terminal,luxury,4803.31,55,3,1,0,overnight shipping
+755,1058,2024-06-01T17:01:44,DE,pos_terminal,groceries,4332.89,62,5,3,0,new device
+756,1150,2024-04-17T03:17:41,CN,mobile_app,groceries,4617.91,21,6,9,0,NA
+757,1055,2024-04-23T10:06:05,AU,web,NA,2136.1,55,4,0,0,first time merchant
+758,1059,2022-04-03T23:11:12,US,web,groceries,307.31,89,0,1,0,
+759,1016,2022-11-22T15:24:00,UK,web,travel,4214.7,20,1,3,0,
+760,1173,2024-12-23T18:57:58,CN,mobile_app,luxury,4986.09,82,3,3,0,new device
+761,1050,2024-04-11T09:24:49,UK,web,travel,3472.89,39,4,0,0,high value item
+762,1132,2023-01-04T17:56:14,US,web,electronics,3034.9,40,0,0,0,new device
+763,1052,2022-10-14T07:44:40,JP,web,travel,2111.19,20,2,2,0,repeat purchase
+764,1176,2022-02-19T23:01:05,UK,pos_terminal,,3440.09,22,4,0,0,first time merchant
+765,1172,2022-08-24T16:41:18,UK,mobile_app,groceries,4064.02,83,2,0,0,overnight shipping
+766,1120,2022-03-24T16:27:29,SG,pos_terminal,electronics,6306.43,54,0,2,0,first time merchant
+767,1130,2023-04-12T10:23:42,CN,mobile_app,groceries,1877.25,15,0,1,0,first time merchant
+768,1159,2024-12-12T05:08:04,CN,web,electronics,1264.82,81,31,2,0,first time merchant
+769,1132,2023-02-02T12:45:48,US,pos_terminal,electronics,1211.89,28,4,1,0,high value item
+770,1062,2024-05-09T22:08:23,SG,pos_terminal,luxury,1548.62,20,0,2,0,new device
+771,1010,2023-01-18T12:50:14,MY,mobile_app,gaming,935.59,12,3,3,0,first time merchant
+772,1005,2023-04-08T23:06:23,SG,pos_terminal,travel,4152.25,27,6,9,0,
+773,1090,2023-02-02T16:16:37,SG,pos_terminal,electronics,1110.17,23,5,3,0,first time merchant
+774,1023,2023-02-10T15:13:08,AU,mobile_app,groceries,2033.83,19,6,3,0,VPN suspected
+775,1141,2024-12-10T00:00:58,CN,web,electronics,1673.61,80,4,0,0,VPN suspected
+776,1152,2022-09-03T23:58:26,CN,mobile_app,gaming,1729.62,19,0,2,0,new device
+777,1150,2022-10-13T13:12:10,CN,web,groceries,2529.76,67,2,0,1,high value item
+778,1104,2022-03-29T11:40:01,US,mobile_app,groceries,1978.09,15,0,1,0,repeat purchase
+779,1052,2024-01-10T12:25:56,JP,web,luxury,2278.69,37,1,2,0,
+780,1027,2024-09-21T20:54:31,AU,pos_terminal,groceries,4919.62,47,0,2,1,first time merchant
+781,1060,2024-09-03T21:58:35,SG,pos_terminal,groceries,1060.59,88,0,2,0,first time merchant
+782,1148,2022-05-13T09:18:36,US,web,luxury,2914.91,86,4,3,0,VPN suspected
+783,1164,2024-07-23T02:56:33,CN,pos_terminal,gaming,3184.25,28,0,2,0,
+784,1047,2023-04-02T09:49:09,US,mobile_app,luxury,4803.18,NA,4,3,0,VPN suspected
+785,1055,2023-09-26T17:46:14,AU,web,NA,3012.4,41,4,0,0,
+786,1030,2022-10-19T22:36:39,UK,web,travel,3920.6,55,1,2,0,first time merchant
+787,1055,2022-01-31T17:30:51,AU,pos_terminal,groceries,4036.36,53,6,1,0,new device
+788,1130,2023-07-11T20:57:02,CN,web,luxury,5.89,75,3,3,0,
+789,1020,2023-01-31T19:21:52,MY,web,electronics,280.88,20,4,2,0,new device
+790,1113,2024-04-22T20:09:03,DE,web,gaming,4478.7,86,1,3,0,
+791,1088,2022-02-09T17:51:05,AU,mobile_app,luxury,4615.53,82,4,8,0,overnight shipping
+792,1059,2022-07-02T04:59:20,US,web,,4805.11,79,3,1,0,new device
+793,1131,2023-10-13T04:29:31,US,mobile_app,luxury,1092.05,95,2,0,0,first time merchant
+794,1130,2022-03-30T03:27:17,CN,web,groceries,3410.56,60,0,3,0,
+795,1163,2022-07-08T15:57:52,US,web,electronics,1306.23,63,4,3,0,VPN suspected
+796,1138,2023-05-13T03:54:32,SG,pos_terminal,gaming,1693.02,67,0,3,0,repeat purchase
+797,1127,2023-04-29T12:33:49,DE,web,gaming,1881.21,94,1,2,0,NA
+798,1138,2024-07-05T03:43:16,SG,web,electronics,3850.68,83,4,3,0,first time merchant
+799,1110,2023-08-15T17:55:01,SG,web,gaming,4757.05,39,4,2,0,new device
+800,1156,2024-11-14T17:40:04,MY,mobile_app,gaming,2728.92,14,3,1,0,VPN suspected
+801,1168,2023-01-18T00:59:39,SG,mobile_app,electronics,318.34,69,4,1,0,VPN suspected
+802,1033,2023-10-18T16:36:12,AU,pos_terminal,electronics,2661.17,10,1,1,0,repeat purchase
+803,1099,2024-02-20T23:39:21,UK,pos_terminal,electronics,625.0,79,5,2,0,first time merchant
+804,1090,2023-08-26T05:40:15,SG,web,travel,4233.87,38,1,0,0,repeat purchase
+805,1086,2024-09-16T05:58:21,UK,pos_terminal,groceries,2946.03,38,4,2,0,first time merchant
+806,1006,2024-09-29T16:16:24,AU,web,travel,2439.35,43,1,0,0,
+807,1123,2024-09-18T05:03:12,JP,pos_terminal,gaming,1346.4,56,2,2,0,overnight shipping
+808,1158,2023-03-16T13:30:46,MY,pos_terminal,electronics,2131.82,15,4,1,0,repeat purchase
+809,1090,2022-12-30T14:24:39,SG,web,travel,2807.87,26,0,1,0,first time merchant
+810,1035,2023-11-09T17:51:58,MY,mobile_app,luxury,1622.95,74,6,3,0,new device
+811,1171,2023-07-27T17:40:21,JP,mobile_app,gaming,1587.32,,4,0,0,VPN suspected
+812,1010,2022-11-16T09:23:40,MY,pos_terminal,groceries,1182.87,24,6,6,0,first time merchant
+813,1046,2022-07-25T09:19:18,DE,pos_terminal,travel,2932.58,72,6,1,0,
+814,1038,2022-01-14T04:23:54,UK,pos_terminal,groceries,1440.28,18,6,0,0,repeat purchase
+815,1165,2022-01-15T20:19:39,DE,mobile_app,electronics,2598.43,72,5,5,0,VPN suspected
+816,1046,2023-12-18T15:29:20,DE,mobile_app,travel,2419.68,83,2,0,0,high value item
+817,1061,2022-07-29T12:03:35,CN,pos_terminal,luxury,3227.46,68,1,1,0,new device
+818,1044,2022-11-14T18:36:58,MY,pos_terminal,luxury,4776.75,51,4,2,0,new device
+819,1062,2023-02-21T10:35:19,SG,web,luxury,2315.67,73,6,1,0,overnight shipping
+820,1127,2022-08-27T05:57:28,DE,pos_terminal,luxury,7855.22,30,1,3,0,high value item
+821,1083,2022-10-11T18:35:58,SG,web,groceries,3376.43,27,3,0,0,repeat purchase
+822,1175,2024-08-11T16:32:32,US,mobile_app,gaming,3466.9,57,2,3,0,
+823,1004,2023-07-24T09:15:59,CN,web,travel,2869.69,18,6,1,0,
+824,1042,2023-12-15T21:01:05,CN,mobile_app,gaming,3674.88,88,0,3,0,VPN suspected
+825,1012,2022-11-06T23:09:07,CN,web,luxury,3763.55,24,5,0,0,new device
+826,1008,2024-07-03T04:46:21,UK,pos_terminal,luxury,990.56,37,4,3,0,high value item
+827,1077,2024-12-02T03:09:48,CN,web,electronics,114.52,60,1,0,0,new device
+828,1151,2023-02-01T22:54:23,AU,pos_terminal,luxury,331.02,-5,5,2,0,VPN suspected
+829,1116,2022-08-31T04:17:12,DE,mobile_app,travel,1834.09,26,0,0,0,repeat purchase
+830,1031,2024-01-12T19:10:30,US,mobile_app,gaming,2995.73,20,6,3,1,overnight shipping
+831,1081,2023-06-19T05:52:56,SG,pos_terminal,electronics,3551.95,41,0,3,0,
+832,1078,2022-05-13T11:28:37,JP,mobile_app,gaming,4217.68,42,0,2,1,repeat purchase
+833,1131,2022-09-09T01:13:01,US,pos_terminal,luxury,502.79,21,3,0,0,high value item
+834,1027,2023-12-03T22:03:29,AU,pos_terminal,electronics,509.23,39,0,2,0,overnight shipping
+835,1029,2023-02-07T00:01:36,US,mobile_app,travel,3382.15,64,3,0,0,high value item
+836,1040,2024-06-19T08:53:27,DE,mobile_app,groceries,2926.15,27,3,0,0,VPN suspected
+837,1006,2022-05-19T03:03:28,US,pos_terminal,luxury,1262.33,93,1,0,0,high value item
+838,1000,2023-10-08T07:42:45,US,web,electronics,3044.64,85,6,3,0,first time merchant
+839,1016,2023-02-11T14:37:28,UK,mobile_app,luxury,3749.78,58,1,2,0,first time merchant
+840,1082,2024-06-13T05:13:47,DE,pos_terminal,travel,2914.74,88,0,2,0,high value item
+841,1117,2022-12-18T03:05:26,CN,web,electronics,3302.54,79,6,2,0,first time merchant
+842,1149,2024-07-07T04:57:07,CN,mobile_app,electronics,2687.97,47,4,0,0,overnight shipping
+843,1115,2023-12-31T16:32:47,JP,pos_terminal,gaming,58.66,13,0,2,0,
+844,1076,2024-04-05T02:48:41,AU,web,travel,3372.03,31,3,1,0,first time merchant
+845,1170,2022-04-13T08:02:37,CN,pos_terminal,electronics,3952.56,64,3,1,0,
+846,1096,2023-12-27T03:49:59,SG,pos_terminal,luxury,3200.35,63,2,3,0,overnight shipping
+847,1130,2023-10-02T04:04:28,CN,pos_terminal,gaming,712.56,55,1,3,0,repeat purchase
+848,1056,2023-06-29T17:25:34,AU,web,travel,2180.11,60,6,0,0,repeat purchase
+849,1028,2023-05-24T11:42:48,SG,web,luxury,1067.51,10,1,2,0,
+850,1092,2023-07-25T09:31:09,US,pos_terminal,electronics,3251.78,47,6,3,0,high value item
+851,1132,2022-09-17T22:16:38,US,pos_terminal,electronics,4782.17,61,4,2,0,first time merchant
+852,1083,2023-01-14T12:40:24,UK,pos_terminal,travel,4575.78,84,4,2,0,overnight shipping
+853,1150,2023-06-19T10:51:42,CN,web,travel,2995.94,71,1,3,1,repeat purchase
+854,1015,2023-04-11T19:34:48,CN,mobile_app,,1243.52,92,4,2,0,VPN suspected
+855,1077,2022-10-06T09:33:37,CN,web,gaming,4993.2,45,5,3,0,NA
+856,1080,2024-05-17T11:31:48,JP,pos_terminal,electronics,3912.8,50,1,0,0,
+857,1033,2023-01-13T13:21:44,AU,web,luxury,3018.65,16,5,1,0,new device
+858,1122,2024-08-28T09:25:08,AU,pos_terminal,electronics,519.18,N/A,6,2,0,NA
+859,1150,2024-11-23T12:30:45,CN,pos_terminal,groceries,396.58,55,6,2,0,VPN suspected
+860,1108,2022-06-05T04:46:07,MY,web,travel,3677.34,53,2,3,0,VPN suspected
+861,1094,2023-06-27T16:11:19,US,pos_terminal,travel,1163.57,42,6,9,0,overnight shipping
+862,1086,2022-10-26T06:54:56,UK,web,groceries,3564.91,78,5,3,0,
+863,1101,2023-02-27T07:42:18,JP,pos_terminal,groceries,154.49,81,5,0,0,repeat purchase
+864,1155,2024-03-03T07:52:02,CN,pos_terminal,groceries,3044.8,39,4,1,0,N/A
+865,1162,2022-08-01T16:04:45,AU,mobile_app,luxury,2571.43,64,1,2,0,overnight shipping
+866,1136,2024-01-11T22:04:30,SG,web,luxury,2762.8,93,6,2,0,new device
+867,1065,2024-03-01T19:36:37,DE,pos_terminal,travel,775.86,86,2,1,0,
+868,1009,2022-07-03T23:38:34,MY,mobile_app,gaming,661.87,81,4,1,0,new device
+869,1127,2022-03-03T12:58:52,DE,pos_terminal,,2585.89,16,4,1,1,
+870,1177,2024-12-05T12:29:27,AU,web,electronics,3157.26,81,5,3,0,
+871,1073,2022-05-07T23:15:57,DE,mobile_app,groceries,426.18,16,2,1,0,
+872,1025,2022-03-13T00:12:46,SG,web,luxury,2021.98,57,2,3,0,repeat purchase
+873,1171,2024-03-09T13:17:05,JP,pos_terminal,luxury,1496.15,21,1,0,0,repeat purchase
+874,1068,2024-08-19T01:33:39,MY,pos_terminal,,2741.63,28,5,3,0,
+875,1133,2022-08-31T15:33:43,JP,mobile_app,travel,154.14,,3,3,1,first time merchant
+876,1179,2024-01-05T14:54:40,UK,pos_terminal,groceries,1514.33,10,4,1,0,overnight shipping
+877,1117,2024-09-23T14:18:45,CN,pos_terminal,groceries,1926.1,19,5,1,0,first time merchant
+878,1041,2022-10-16T19:30:21,AU,web,luxury,3535.96,43,2,1,0,high value item
+879,1081,2024-06-10T16:08:00,SG,web,groceries,1836.48,83,5,3,0,overnight shipping
+880,1054,2022-10-06T08:54:55,SG,web,travel,2800.39,45,0,1,0,VPN suspected
+881,1099,2024-02-04T00:30:04,UK,mobile_app,travel,3765.54,24,0,3,0,
+882,1011,2024-01-13T07:52:55,US,web,travel,220.21,65,5,3,0,high value item
+883,1143,2023-11-02T22:18:14,DE,web,travel,2066.61,37,3,2,0,repeat purchase
+884,1131,2022-10-17T15:12:51,US,pos_terminal,electronics,3852.79,14,0,3,0,VPN suspected
+885,1092,2024-06-15T08:33:48,US,web,gaming,757.77,61,4,3,0,new device
+886,1138,2024-10-27T06:35:19,AU,web,luxury,3989.17,48,1,2,0,VPN suspected
+887,1114,2023-11-19T11:05:23,SG,web,N/A,4123.44,79,6,0,0,high value item
+888,1021,2022-07-25T14:49:32,US,pos_terminal,electronics,4027.4,66,0,1,1,high value item
+889,1068,2022-06-20T21:11:00,MY,pos_terminal,groceries,4505.68,82,0,3,0,repeat purchase
+890,1046,2023-12-12T20:43:43,DE,mobile_app,travel,2190.87,73,3,1,0,overnight shipping
+891,1007,2023-04-18T21:48:53,US,web,luxury,3388.01,48,0,6,0,repeat purchase
+892,1178,2023-08-06T02:04:34,UK,pos_terminal,electronics,4952.44,88,1,2,0,overnight shipping
+893,1099,2022-05-25T01:03:26,MY,pos_terminal,electronics,2142.94,80,4,3,1,high value item
+894,1177,2022-09-14T22:56:13,AU,pos_terminal,gaming,3494.75,38,3,3,0,overnight shipping
+895,1002,2022-05-30T15:13:24,DE,web,luxury,529.73,33,5,1,0,overnight shipping
+896,1008,2022-03-23T20:57:57,UK,pos_terminal,electronics,29.09,79,3,4,0,VPN suspected
+897,1001,2023-07-31T21:21:59,AU,pos_terminal,travel,2715.61,82,0,3,0,new device
+898,1045,2022-01-18T22:09:29,CN,pos_terminal,groceries,2310.26,13,28,0,0,
+899,1110,2022-12-11T03:41:50,SG,pos_terminal,groceries,4534.61,25,3,2,0,
+900,1085,2022-06-17T23:37:56,DE,pos_terminal,luxury,2352.76,22,4,0,0,new device
+901,1055,2022-05-18T17:24:38,JP,web,travel,4807.26,16,4,3,1,first time merchant
+902,1058,2022-10-05T21:09:03,DE,mobile_app,gaming,1394.53,26,6,0,0,overnight shipping
+903,1172,2022-09-17T23:40:47,UK,web,groceries,1385.71,29,1,3,0,new device
+904,1049,2022-03-26T04:32:05,US,web,luxury,986.01,17,6,3,0,first time merchant
+905,1018,2022-02-16T20:10:38,JP,pos_terminal,electronics,1891.22,30,4,0,0,high value item
+906,1100,2022-11-29T04:36:05,UK,web,electronics,70.95,61,2,3,0,VPN suspected
+907,1059,2024-03-17T04:05:36,US,mobile_app,gaming,1516.68,42,0,3,0,overnight shipping
+908,1106,2023-12-06T00:19:41,AU,web,luxury,4232.7,65,0,1,0,high value item
+909,1167,2023-10-19T08:43:09,CN,pos_terminal,travel,4774.84,73,4,0,0,new device
+910,1021,2024-02-18T08:14:12,SG,web,groceries,4812.07,68,1,0,0,new device
+911,1176,2023-05-09T02:05:45,UK,pos_terminal,travel,140.92,44,3,3,0,overnight shipping
+912,1068,2023-11-19T06:23:15,MY,pos_terminal,luxury,1355.0,86,3,0,0,new device
+913,1137,2022-01-17T18:21:59,JP,pos_terminal,gaming,4074.01,61,2,2,0,
+914,1003,2024-07-17T08:08:15,CN,pos_terminal,travel,1329.21,46,5,1,0,VPN suspected
+915,1079,2023-03-14T22:51:03,UK,mobile_app,groceries,2290.03,12,5,0,0,overnight shipping
+916,1094,2024-07-03T02:58:59,US,mobile_app,groceries,4078.41,32,4,2,0,high value item
+917,1041,2022-02-21T22:33:26,AU,pos_terminal,groceries,2224.1,83,5,1,1,overnight shipping
+918,1161,2024-01-02T04:52:28,US,web,gaming,2596.2,14,1,1,1,new device
+919,1030,2024-05-21T00:38:19,UK,pos_terminal,electronics,1088.87,90,3,0,0,first time merchant
+920,1100,2022-12-27T23:01:38,UK,pos_terminal,luxury,1720.5,88,6,1,0,new device
+921,1179,2023-01-25T16:38:38,UK,mobile_app,gaming,3456.26,38,1,3,0,repeat purchase
+922,1117,2022-04-04T16:11:24,CN,web,travel,4148.99,14,3,3,0,
+923,1173,2023-01-10T22:05:54,CN,pos_terminal,luxury,3810.46,43,3,3,0,new device
+924,1039,2022-10-18T05:58:45,US,pos_terminal,electronics,1460.89,54,5,1,0,high value item
+925,1090,2024-04-09T01:24:11,SG,pos_terminal,gaming,3280.79,41,5,3,0,
+926,1175,2024-10-04T08:06:52,US,mobile_app,gaming,2794.89,25,2,0,0,VPN suspected
+927,1102,2023-04-15T18:53:46,DE,mobile_app,luxury,3652.76,15,2,1,0,overnight shipping
+928,1019,2023-12-02T10:27:17,DE,pos_terminal,electronics,1880.5,85,4,1,0,
+929,1040,2022-01-31T02:39:55,DE,web,groceries,449.94,35,6,3,0,VPN suspected
+930,1055,2022-06-01T05:27:31,AU,web,electronics,4925.46,66,5,3,0,first time merchant
+931,1090,2023-05-01T20:59:13,DE,web,electronics,3150.2,49,4,2,0,repeat purchase
+932,1006,2023-12-16T15:51:24,US,mobile_app,travel,3997.9,10,0,3,0,high value item
+933,1114,2024-07-10T09:56:05,SG,web,luxury,2133.73,42,0,1,0,VPN suspected
+934,1069,2024-05-23T19:11:29,CN,web,travel,687.63,38,0,3,0,overnight shipping
+935,1172,2023-02-27T13:19:15,AU,pos_terminal,gaming,3104.2,82,4,2,0,overnight shipping
+936,1074,2023-03-30T09:45:16,US,mobile_app,travel,2847.36,41,1,2,0,new device
+937,1004,2024-12-12T21:53:42,CN,web,groceries,2967.01,26,3,1,0,first time merchant
+938,1069,2022-07-24T07:10:06,JP,web,electronics,576.6,15,2,2,0,
+939,1033,2022-09-15T01:15:00,AU,mobile_app,travel,1522.63,28,1,0,0,overnight shipping
+940,1118,2023-11-14T12:55:22,SG,pos_terminal,luxury,2912.17,70,4,0,0,repeat purchase
+941,1066,2023-11-02T12:24:14,CN,web,travel,241.24,33,3,5,0,VPN suspected
+942,1027,2022-02-08T09:14:42,AU,pos_terminal,luxury,3466.04,60,4,0,0,high value item
+943,1071,2024-02-21T18:03:09,AU,pos_terminal,electronics,4861.42,46,2,0,0,repeat purchase
+944,1093,2022-04-07T05:10:52,MY,mobile_app,NA,906.69,30,1,1,0,new device
+945,1055,2023-02-23T00:14:01,AU,mobile_app,luxury,339.54,95,6,0,0,
+946,1080,2023-05-26T23:03:11,JP,mobile_app,groceries,4707.87,39,4,3,1,overnight shipping
+947,1032,2023-08-30T14:04:51,AU,pos_terminal,electronics,3588.78,94,2,2,0,high value item
+948,1139,2024-08-05T23:49:06,DE,mobile_app,luxury,1302.99,86,1,0,0,new device
+949,1173,2024-08-18T20:09:21,CN,web,groceries,2994.39,84,2,2,0,high value item
+950,1160,2023-01-20T14:36:49,SG,web,groceries,4896.65,68,0,2,0,
+951,1018,2024-07-19T01:55:52,JP,pos_terminal,electronics,4662.73,55,4,2,0,
+952,1126,2024-03-05T23:16:15,AU,mobile_app,groceries,1804.22,28,1,2,0,high value item
+953,1000,2023-02-05T06:18:18,US,web,gaming,2593.31,84,0,0,1,overnight shipping
+954,1089,2022-05-27T19:49:55,CN,pos_terminal,luxury,3119.95,60,5,2,0,VPN suspected
+955,1040,2024-01-05T18:09:01,DE,mobile_app,gaming,709.66,13,4,1,0,repeat purchase
+956,1105,2023-03-24T01:09:37,DE,pos_terminal,travel,2180.02,29,1,2,0,repeat purchase
+957,1159,2024-11-19T00:41:42,CN,web,groceries,535.74,15,4,1,0,
+958,1044,2022-06-06T11:47:18,MY,web,gaming,4348.78,78,3,0,0,first time merchant
+959,1079,2023-09-18T04:53:53,UK,web,luxury,4640.42,73,4,2,0,VPN suspected
+960,1079,2022-09-01T19:27:46,UK,mobile_app,groceries,705.41,28,1,2,1,new device
+961,1028,2023-07-31T23:31:32,US,web,luxury,2233.12,62,4,2,0,high value item
+962,1140,2022-02-10T01:14:56,UK,mobile_app,electronics,3725.89,17,1,2,0,
+963,1045,2023-07-08T07:56:33,CN,pos_terminal,electronics,2766.2,63,4,0,0,high value item
+964,1062,2023-04-11T05:54:35,CN,pos_terminal,travel,3366.2,36,3,0,0,high value item
+965,1103,2022-12-29T12:29:06,MY,pos_terminal,gaming,544.19,34,4,1,0,new device
+966,1057,2023-12-17T05:29:47,CN,web,travel,3541.53,12,3,0,0,high value item
+967,1162,2024-12-06T03:54:41,AU,web,electronics,2335.98,62,4,2,0,
+968,1089,2024-10-15T05:47:43,CN,pos_terminal,groceries,1884.98,61,6,2,0,overnight shipping
+969,1144,2022-11-29T10:20:14,UK,pos_terminal,luxury,46.15,48,4,0,0,new device
+970,1077,2022-05-09T14:36:39,CN,web,travel,8909.23,73,2,2,0,first time merchant
+971,1077,2022-08-19T13:29:15,CN,mobile_app,travel,1717.47,84,4,3,0,repeat purchase
+972,1042,2024-11-20T12:56:00,CN,web,electronics,4932.94,27,0,2,0,repeat purchase
+973,1064,2024-01-05T16:06:49,UK,pos_terminal,travel,950.58,15,2,1,0,overnight shipping
+974,1088,2024-05-01T07:00:09,JP,mobile_app,electronics,1065.06,59,3,2,1,overnight shipping
+975,1144,2023-01-28T14:34:42,UK,mobile_app,luxury,259.88,12,4,3,0,repeat purchase
+976,1176,2022-09-09T01:14:17,DE,mobile_app,groceries,4690.77,45,3,3,0,overnight shipping
+977,1032,2022-08-28T10:58:22,AU,mobile_app,luxury,4662.26,33,1,0,0,high value item
+978,1066,2024-10-18T09:30:57,CN,pos_terminal,gaming,1629.08,86,1,1,0,VPN suspected
+979,1089,2023-03-23T03:10:44,CN,pos_terminal,electronics,6245.68,33,6,3,0,new device
+980,1069,2023-05-20T19:22:35,CN,pos_terminal,gaming,855.67,49,6,2,0,first time merchant
+981,1017,2022-04-23T10:58:03,CN,pos_terminal,electronics,2996.83,68,3,2,0,new device
+982,1075,2022-08-18T14:07:22,CN,pos_terminal,travel,1300.53,87,2,0,0,new device
+983,1051,2023-05-06T20:33:58,DE,web,luxury,2565.39,32,4,1,0,repeat purchase
+984,1175,2022-05-09T10:11:07,US,mobile_app,luxury,3304.81,38,6,0,0,repeat purchase
+985,1071,2024-02-21T15:05:47,AU,pos_terminal,luxury,2962.86,18,1,3,0,overnight shipping
+986,1087,2022-04-18T19:37:36,UK,web,electronics,2661.8,71,0,1,0,overnight shipping
+987,1104,2024-12-05T09:57:18,US,mobile_app,luxury,4689.48,48,6,3,0,first time merchant
+988,1125,2023-11-04T20:45:36,US,pos_terminal,groceries,3709.74,16,0,3,0,high value item
+989,1076,2024-12-19T17:12:40,AU,mobile_app,electronics,4631.23,77,2,0,0,new device
+990,1100,2024-12-07T03:05:11,UK,pos_terminal,electronics,2514.38,78,0,3,0,N/A
+991,1168,2022-12-08T03:28:29,SG,mobile_app,gaming,4307.35,84,6,0,0,high value item
+992,1118,2022-01-25T21:20:12,SG,mobile_app,electronics,608.57,84,1,1,0,overnight shipping
+993,1062,2024-05-23T01:36:03,SG,mobile_app,travel,4278.07,15,0,2,0,VPN suspected
+994,1135,2024-10-13T06:24:48,SG,mobile_app,electronics,1744.05,61,1,0,0,first time merchant
+995,1110,2022-07-05T11:40:18,SG,web,electronics,4304.01,40,4,2,0,VPN suspected
+996,1010,2022-10-02T16:58:15,MY,web,luxury,792.88,93,0,1,0,VPN suspected
+997,1174,2024-04-24T02:02:57,US,pos_terminal,luxury,1617.33,N/A,6,2,0,overnight shipping
+998,1000,2022-10-05T15:13:00,US,mobile_app,luxury,672.47,23,2,3,0,new device
+999,1147,2024-04-23T18:51:02,JP,mobile_app,gaming,4302.96,87,5,1,0,
+1000,1069,2023-10-18T11:07:54,CN,mobile_app,travel,2268.92,25,1,3,0,repeat purchase
+1001,1069,2022-03-13T06:19:13,CN,pos_terminal,electronics,1028.53,93,4,1,0,VPN suspected
+1002,1002,2022-01-26T19:58:07,AU,web,travel,4366.86,33,3,2,0,overnight shipping
+1003,1059,2022-06-24T19:02:46,US,mobile_app,luxury,1343.39,12,5,2,0,overnight shipping
+1004,1164,2022-06-04T01:39:30,CN,mobile_app,electronics,4618.06,45,3,3,0,overnight shipping
+1005,1045,2024-02-04T02:31:53,CN,web,groceries,1325.81,92,1,0,0,repeat purchase
+1006,1176,2024-02-21T06:03:30,UK,pos_terminal,luxury,3264.34,29,0,1,0,high value item
+1007,1139,2022-03-05T00:21:29,DE,mobile_app,electronics,2475.17,82,0,1,0,
+1008,1023,2022-08-12T06:34:52,AU,web,travel,378.78,28,0,2,0,
+1009,1126,2022-08-16T18:10:35,AU,web,luxury,2274.49,62,1,2,0,new device
+1010,1003,2022-10-23T10:11:13,DE,web,groceries,4569.4,N/A,2,3,0,new device
+1011,1164,2023-12-25T10:06:14,JP,mobile_app,electronics,3013.79,81,5,2,0,first time merchant
+1012,1027,2022-08-15T10:59:34,AU,web,groceries,2702.92,46,6,3,0,
+1013,1032,2023-03-15T14:24:03,DE,mobile_app,luxury,2556.35,94,0,0,0,first time merchant
+1014,1011,2022-04-14T12:36:47,US,pos_terminal,groceries,4809.78,35,1,2,0,repeat purchase
+1015,1135,2024-04-20T10:17:27,SG,pos_terminal,electronics,4989.36,,5,0,0,N/A
+1016,1096,2023-05-25T09:47:45,JP,web,,25.14,83,4,0,0,repeat purchase
+1017,1160,2022-11-08T07:08:43,US,mobile_app,travel,4725.41,68,4,0,0,overnight shipping
+1018,1140,2024-05-20T15:16:24,UK,web,electronics,4079.86,75,1,0,0,new device
+1019,1021,2023-10-14T02:42:38,SG,mobile_app,gaming,708.47,49,0,2,0,repeat purchase
+1020,1105,2024-04-21T00:28:20,DE,pos_terminal,travel,1417.63,44,3,0,0,overnight shipping
+1021,1138,2022-07-07T22:32:09,CN,pos_terminal,luxury,3835.52,29,3,2,1,overnight shipping
+1022,1091,2023-01-30T13:19:10,CN,mobile_app,luxury,6473.3,22,4,2,0,VPN suspected
+1023,1083,2023-12-10T18:01:18,SG,mobile_app,electronics,305.1,38,3,0,0,first time merchant
+1024,1044,2023-02-15T04:36:47,UK,web,gaming,147.8,78,0,3,0,
+1025,1066,2023-10-02T12:46:02,DE,pos_terminal,NA,4892.37,38,2,0,0,new device
+1026,1052,2023-09-26T15:54:09,JP,mobile_app,travel,416.29,78,2,1,0,new device
+1027,1107,2024-03-04T11:59:44,US,web,groceries,383.87,66,3,3,0,
+1028,1169,2022-11-23T18:03:40,JP,web,electronics,4663.31,48,3,1,0,overnight shipping
+1029,1107,2024-02-14T17:09:07,US,mobile_app,luxury,3023.4,30,4,0,0,overnight shipping
+1030,1031,2022-07-27T21:45:39,US,web,travel,2656.45,10,3,1,0,overnight shipping
+1031,1016,2024-12-17T16:17:37,UK,pos_terminal,electronics,2026.35,12,0,0,0,overnight shipping
+1032,1047,2023-05-22T00:07:45,US,mobile_app,travel,-189.25,73,5,3,0,new device
+1033,1114,2022-04-12T02:05:51,SG,web,groceries,4684.0,40,5,0,0,high value item
+1034,1161,2024-03-05T04:48:22,MY,pos_terminal,electronics,1292.59,46,5,2,0,high value item
+1035,1057,2023-11-23T16:10:45,CN,mobile_app,groceries,3380.3,76,3,3,1,new device
+1036,1007,2024-11-14T03:49:39,US,web,groceries,3384.55,85,3,3,0,VPN suspected
+1037,1107,2022-08-06T00:11:51,US,web,travel,1760.14,74,1,2,0,new device
+1038,1031,2024-03-11T18:02:50,UK,pos_terminal,gaming,1298.65,12,3,2,0,repeat purchase
+1039,1093,2022-10-18T02:20:03,MY,mobile_app,gaming,-185.62,37,0,2,0,
+1040,1137,2023-03-31T18:08:18,JP,mobile_app,travel,118.9,23,4,0,0,new device
+1041,1096,2024-09-02T23:23:48,SG,pos_terminal,luxury,2022.0,39,4,1,0,repeat purchase
+1042,1070,2024-10-18T13:16:49,JP,pos_terminal,travel,4277.76,70,2,0,0,VPN suspected
+1043,1059,2024-02-02T18:31:32,US,mobile_app,gaming,4270.56,95,3,6,0,VPN suspected
+1044,1071,2024-05-15T14:29:09,AU,web,luxury,2304.0,74,2,2,0,high value item
+1045,1055,2022-07-20T15:20:19,MY,web,luxury,365.41,51,5,0,0,overnight shipping
+1046,1037,2024-07-12T05:35:33,US,web,luxury,1254.11,93,5,3,0,high value item
+1047,1102,2024-09-01T13:44:08,DE,web,groceries,2156.76,70,3,0,0,first time merchant
+1048,1014,2023-11-17T11:49:15,MY,mobile_app,electronics,4718.01,28,4,0,0,
+1049,1080,2023-01-28T21:41:47,JP,mobile_app,N/A,2501.46,73,2,3,0,
+1050,1122,2023-03-07T12:47:53,AU,pos_terminal,groceries,3531.13,92,0,0,0,high value item
+1051,1125,2022-08-07T13:10:03,US,web,travel,1860.37,N/A,4,2,0,VPN suspected
+1052,1045,2023-01-19T00:57:11,CN,pos_terminal,travel,9984.42,33,2,0,0,
+1053,1004,2023-03-19T02:25:59,CN,web,gaming,4706.87,35,3,1,0,first time merchant
+1054,1040,2023-07-25T14:27:15,MY,pos_terminal,groceries,163.52,51,1,2,0,high value item
+1055,1126,2023-01-05T17:55:05,AU,pos_terminal,electronics,1111.82,48,4,0,0,VPN suspected
+1056,1116,2022-12-07T17:41:19,DE,web,travel,3117.52,57,34,3,1,high value item
+1057,1005,2022-12-14T01:34:00,SG,web,travel,4222.37,31,0,2,0,repeat purchase
+1058,1149,2023-04-07T05:57:10,CN,web,groceries,33.8,55,1,2,0,repeat purchase
+1059,1072,2023-11-04T22:43:57,UK,mobile_app,travel,2772.37,36,6,1,0,new device
+1060,1001,2022-02-24T11:36:47,MY,pos_terminal,groceries,4158.43,44,4,2,0,
+1061,1030,2022-10-20T07:31:25,UK,mobile_app,luxury,1859.1,11,4,2,0,VPN suspected
+1062,1033,2023-01-06T12:28:04,AU,web,luxury,3613.01,64,2,1,0,VPN suspected
+1063,1179,2022-02-22T19:27:07,UK,web,electronics,7965.46,78,2,2,0,repeat purchase
+1064,1090,2022-01-21T10:06:17,SG,web,electronics,526.23,16,3,3,0,first time merchant
+1065,1033,2022-11-11T02:32:34,AU,mobile_app,gaming,2698.96,33,0,3,0,high value item
+1066,1060,2022-12-15T18:37:35,SG,web,gaming,4713.84,69,5,3,0,overnight shipping
+1067,1134,2024-12-22T06:53:47,US,mobile_app,luxury,2389.65,32,4,3,0,new device
+1068,1163,2023-10-16T23:23:05,US,mobile_app,groceries,863.89,11,4,3,0,overnight shipping
+1069,1064,2023-01-05T20:00:05,UK,web,NA,1368.36,83,0,3,0,VPN suspected
+1070,1087,2022-04-18T18:23:27,UK,web,luxury,3235.43,39,0,0,0,
+1071,1076,2024-08-07T02:05:37,AU,web,electronics,107.32,69,0,2,0,high value item
+1072,1111,2022-09-23T12:18:13,JP,pos_terminal,gaming,7862.21,32,3,3,0,high value item
+1073,1105,2022-08-23T00:41:59,DE,mobile_app,gaming,4825.02,35,3,2,0,VPN suspected
+1074,1133,2024-01-12T15:26:57,MY,mobile_app,groceries,3022.42,,3,3,0,first time merchant
+1075,1126,2023-01-22T05:19:44,AU,web,gaming,2227.04,44,3,2,0,
+1076,1114,2022-01-23T05:22:55,SG,pos_terminal,gaming,1893.12,63,0,3,0,
+1077,1152,2023-11-26T07:32:55,AU,mobile_app,luxury,1340.32,45,6,0,1,
+1078,1109,2022-04-13T09:31:54,UK,mobile_app,electronics,2278.6,76,1,3,0,
+1079,1106,2023-06-10T13:54:29,AU,mobile_app,groceries,4623.16,,2,0,0,high value item
+1080,1121,2022-12-08T18:53:07,MY,pos_terminal,gaming,3487.82,N/A,2,2,0,repeat purchase
+1081,1068,2024-05-20T18:32:15,MY,mobile_app,luxury,3329.69,61,6,0,0,high value item
+1082,1147,2023-07-30T02:39:01,JP,mobile_app,travel,2155.11,52,6,3,0,VPN suspected
+1083,1131,2024-10-28T15:25:01,US,mobile_app,gaming,4219.37,83,6,3,0,first time merchant
+1084,1102,2024-06-25T00:26:25,DE,web,electronics,815.13,11,6,1,0,first time merchant
+1085,1040,2024-10-01T03:35:09,DE,mobile_app,N/A,1167.67,10,6,2,0,new device
+1086,1170,2023-04-26T02:43:49,CN,mobile_app,gaming,3199.03,24,6,3,0,first time merchant
+1087,1112,2023-01-24T00:23:16,SG,mobile_app,groceries,2563.64,94,6,1,0,
+1088,1106,2024-08-23T16:55:59,AU,pos_terminal,luxury,1356.13,24,5,0,0,overnight shipping
+1089,1036,2024-11-12T02:21:00,JP,mobile_app,N/A,272.94,29,2,0,0,first time merchant
+1090,1016,2024-07-19T05:25:09,UK,pos_terminal,luxury,3256.76,48,2,0,1,new device
+1091,1144,2023-01-12T20:41:29,UK,web,,11.91,24,3,1,0,new device
+1092,1061,2022-09-03T14:03:40,CN,web,luxury,4506.87,44,6,1,0,first time merchant
+1093,1020,2023-01-01T00:47:47,MY,pos_terminal,N/A,3288.49,62,4,1,0,new device
+1094,1103,2022-05-01T07:39:24,MY,mobile_app,electronics,3771.32,50,6,6,0,
+1095,1136,2024-06-19T11:49:17,SG,web,luxury,1360.61,75,0,3,0,overnight shipping
+1096,1050,2022-09-18T07:27:02,UK,mobile_app,travel,4850.81,84,2,3,0,high value item
+1097,1065,2023-01-16T19:33:24,DE,mobile_app,travel,56.39,19,4,1,0,first time merchant
+1098,1168,2022-11-13T18:58:47,SG,pos_terminal,travel,1603.76,71,3,3,0,
+1099,1063,2023-06-06T16:11:03,JP,mobile_app,,479.13,77,6,1,0,repeat purchase
+1100,1168,2024-08-13T12:09:53,SG,pos_terminal,electronics,1525.49,39,6,0,0,new device
+1101,1162,2024-08-20T04:02:37,AU,mobile_app,gaming,1919.34,95,1,0,0,high value item
+1102,1059,2022-03-05T18:59:31,UK,pos_terminal,electronics,1305.83,61,4,0,0,VPN suspected
+1103,1168,2024-01-17T07:40:59,SG,pos_terminal,luxury,4682.3,52,1,2,1,new device
+1104,1041,2023-10-14T07:04:42,AU,pos_terminal,travel,2024.12,73,1,0,0,repeat purchase
+1105,1169,2023-01-03T01:09:44,JP,pos_terminal,travel,355.84,71,3,2,0,
+1106,1140,2022-01-01T08:31:27,UK,pos_terminal,travel,644.23,18,0,3,1,
+1107,1176,2024-01-02T02:30:44,UK,pos_terminal,groceries,2965.85,55,2,0,0,repeat purchase
+1108,1024,2023-10-20T14:16:17,DE,pos_terminal,luxury,1245.13,60,3,0,1,new device
+1109,1081,2023-10-01T03:34:17,CN,pos_terminal,travel,408.09,36,3,0,0,
+1110,1160,2022-02-13T21:28:34,US,web,luxury,3040.79,58,3,1,0,overnight shipping
+1111,1048,2024-08-17T09:16:54,CN,pos_terminal,electronics,4202.32,74,4,0,0,high value item
+1112,1138,2023-08-01T07:05:05,SG,web,luxury,482.15,80,0,3,0,repeat purchase
+1113,1116,2022-11-22T04:01:20,DE,mobile_app,electronics,4759.91,45,5,0,0,high value item
+1114,1020,2024-06-27T02:18:24,MY,pos_terminal,travel,1220.16,72,3,3,0,
+1115,1003,2022-10-10T23:24:04,CN,mobile_app,electronics,2431.32,67,3,0,0,VPN suspected
+1116,1002,2024-01-30T01:08:46,DE,pos_terminal,electronics,2145.25,89,0,1,0,new device
+1117,1036,2024-01-18T04:01:38,JP,web,groceries,2300.88,69,2,0,0,VPN suspected
+1118,1011,2022-09-30T14:22:58,US,mobile_app,gaming,1289.69,90,1,2,0,overnight shipping
+1119,1023,2022-09-12T17:01:40,AU,pos_terminal,travel,1739.96,37,6,2,0,
+1120,1031,2024-10-07T19:31:03,US,mobile_app,luxury,9847.54,63,2,0,0,
+1121,1103,2022-02-02T04:12:22,MY,web,gaming,136.84,35,0,0,0,overnight shipping
+1122,1015,2024-02-04T04:11:16,CN,web,groceries,1538.65,17,2,2,0,overnight shipping
+1123,1013,2023-10-16T23:29:07,CN,pos_terminal,electronics,4662.1,78,5,3,0,VPN suspected
+1124,1082,2024-10-10T08:40:42,DE,mobile_app,travel,1871.9,N/A,5,3,0,overnight shipping
+1125,1047,2022-12-02T00:38:23,US,web,groceries,4087.08,N/A,1,1,0,VPN suspected
+1126,1082,2023-05-07T05:52:25,JP,mobile_app,travel,3264.05,66,1,1,0,overnight shipping
+1127,1046,2022-02-14T18:06:16,DE,web,electronics,945.31,32,2,2,0,N/A
+1128,1123,2023-11-10T10:55:05,JP,mobile_app,N/A,1945.63,66,4,0,0,repeat purchase
+1129,1062,2023-03-14T21:09:11,SG,mobile_app,groceries,2464.32,NA,0,0,0,N/A
+1130,1092,2022-04-18T07:24:51,US,pos_terminal,gaming,2517.61,90,5,3,0,N/A
+1131,1111,2024-08-27T11:32:10,JP,mobile_app,groceries,4630.09,65,0,1,0,first time merchant
+1132,1103,2023-06-22T13:46:04,MY,mobile_app,gaming,2429.02,23,1,3,0,high value item
+1133,1065,2024-11-02T13:02:37,DE,mobile_app,gaming,6410.48,94,6,3,0,high value item
+1134,1025,2022-09-25T03:10:45,SG,pos_terminal,travel,374.07,23,2,2,1,high value item
+1135,1178,2022-12-01T04:58:12,UK,pos_terminal,gaming,1501.56,91,3,3,0,first time merchant
+1136,1115,2024-12-12T20:34:41,US,mobile_app,travel,1451.33,16,0,1,0,high value item
+1137,1147,2023-07-10T12:01:48,JP,pos_terminal,luxury,3118.04,59,5,0,0,VPN suspected
+1138,1139,2022-05-02T18:56:09,DE,mobile_app,luxury,495.68,50,5,2,0,first time merchant
+1139,1091,2024-10-07T11:06:11,JP,mobile_app,gaming,5261.52,53,6,1,1,repeat purchase
+1140,1039,2022-12-25T08:55:19,US,pos_terminal,travel,-160.53,35,3,10,0,overnight shipping
+1141,1115,2022-02-10T07:26:12,US,pos_terminal,gaming,1339.64,N/A,0,2,0,high value item
+1142,1071,2022-05-22T06:17:42,AU,pos_terminal,luxury,4118.54,72,6,3,0,new device
+1143,1156,2023-07-08T16:00:19,MY,web,luxury,3767.8,72,4,0,0,high value item
+1144,1086,2022-04-03T04:42:27,UK,pos_terminal,travel,736.55,15,0,1,0,
+1145,1039,2022-03-25T07:06:36,US,pos_terminal,luxury,2663.42,88,0,0,0,overnight shipping
+1146,1051,2022-01-08T16:33:48,DE,pos_terminal,gaming,2600.48,75,2,3,0,N/A
+1147,1092,2024-02-11T22:39:48,US,mobile_app,luxury,1463.39,22,3,0,0,first time merchant
+1148,1022,2024-01-31T02:51:33,US,mobile_app,NA,1475.21,58,6,2,0,
+1149,1117,2022-10-23T07:41:30,CN,pos_terminal,travel,135.85,31,5,10,0,VPN suspected
+1150,1138,2024-07-06T01:42:56,SG,mobile_app,luxury,3516.63,66,2,0,0,first time merchant
+1151,1053,2024-08-05T16:04:22,AU,mobile_app,luxury,2789.57,75,6,3,0,new device
+1152,1052,2024-12-11T00:55:09,JP,mobile_app,electronics,2968.8,33,5,0,0,repeat purchase
+1153,1145,2024-12-07T20:24:54,AU,web,travel,4077.58,72,3,0,0,first time merchant
+1154,1142,2022-10-22T12:35:38,CN,web,gaming,2557.39,65,4,0,0,VPN suspected
+1155,1132,2023-04-07T06:21:22,US,web,luxury,3698.94,94,1,2,0,
+1156,1091,2022-09-18T20:05:33,JP,pos_terminal,groceries,3554.83,15,4,0,0,overnight shipping
+1157,1179,2022-07-29T04:59:14,AU,web,groceries,4952.41,90,6,0,0,VPN suspected
+1158,1013,2022-10-19T07:40:19,CN,pos_terminal,gaming,2562.38,70,2,1,0,NA
+1159,1055,2022-10-03T19:20:30,AU,mobile_app,travel,4343.15,73,5,1,0,first time merchant
+1160,1009,2022-10-07T18:53:05,MY,mobile_app,gaming,4979.65,32,3,2,0,high value item
+1161,1099,2022-02-19T14:58:13,UK,mobile_app,luxury,1944.49,54,4,2,0,VPN suspected
+1162,1029,2024-05-19T02:28:00,US,web,groceries,3322.36,80,6,0,0,
+1163,1014,2023-06-07T17:13:44,MY,mobile_app,gaming,4981.12,26,2,1,0,repeat purchase
+1164,1089,2022-03-02T18:46:41,CN,pos_terminal,groceries,4453.57,67,4,3,0,repeat purchase
+1165,1061,2023-07-24T05:51:58,CN,web,groceries,4894.26,85,0,1,0,first time merchant
+1166,1004,2022-07-12T15:55:28,CN,mobile_app,groceries,1381.11,45,4,1,0,VPN suspected
+1167,1078,2022-10-14T12:52:03,JP,mobile_app,groceries,642.08,82,6,3,0,overnight shipping
+1168,1175,2024-06-17T12:54:56,US,web,gaming,132.6,80,1,2,0,new device
+1169,1073,2023-06-08T17:25:30,DE,pos_terminal,travel,4.97,40,0,2,0,high value item
+1170,1050,2022-11-01T11:05:07,UK,pos_terminal,luxury,2333.32,37,6,6,0,VPN suspected
+1171,1049,2022-04-17T22:33:51,US,web,electronics,3483.85,41,1,2,0,new device
+1172,1026,2022-01-31T15:51:35,CN,mobile_app,electronics,3357.27,NA,1,3,0,first time merchant
+1173,1168,2023-02-10T07:59:51,SG,mobile_app,gaming,3715.49,14,1,3,0,NA
+1174,1035,2022-12-11T09:47:06,MY,web,electronics,2402.52,19,5,10,0,new device
+1175,1034,2022-10-07T08:02:02,CN,pos_terminal,groceries,881.33,27,0,0,0,new device
+1176,1025,2023-01-30T07:41:11,SG,pos_terminal,luxury,584.6,41,2,3,0,new device
+1177,1076,2024-06-25T13:50:00,AU,pos_terminal,travel,967.44,16,4,1,0,high value item
+1178,1070,2024-01-09T05:39:30,MY,mobile_app,luxury,461.48,59,3,2,0,VPN suspected
+1179,1063,2024-11-12T01:39:58,JP,mobile_app,electronics,3914.0,41,4,1,0,overnight shipping
+1180,1170,2023-04-23T10:13:35,CN,pos_terminal,luxury,3169.32,80,5,2,0,
+1181,1076,2022-07-31T10:30:05,AU,mobile_app,luxury,3724.99,38,1,2,0,
+1182,1100,2022-10-29T09:36:30,UK,web,travel,4447.2,94,0,1,0,repeat purchase
+1183,1177,2024-08-03T02:01:15,AU,web,,295.59,10,2,3,0,high value item
+1184,1053,2022-08-30T04:07:18,AU,web,travel,3915.2,33,2,1,0,overnight shipping
+1185,1153,2022-08-11T14:08:47,DE,web,groceries,2863.71,95,5,3,0,overnight shipping
+1186,1172,2022-02-22T13:43:56,UK,web,gaming,555.58,59,2,0,0,new device
+1187,1020,2023-02-03T07:14:17,CN,mobile_app,luxury,3284.3,45,0,2,1,repeat purchase
+1188,1018,2023-05-30T17:05:06,JP,mobile_app,travel,2951.98,13,2,1,1,first time merchant
+1189,1030,2024-04-07T17:02:47,MY,web,gaming,4773.91,43,5,2,0,repeat purchase
+1190,1178,2024-09-06T18:42:06,UK,pos_terminal,electronics,2718.18,51,0,0,0,new device
+1191,1004,2022-10-05T09:57:29,CN,web,groceries,2604.25,21,0,3,0,new device
+1192,1155,2023-03-13T13:30:54,CN,mobile_app,luxury,2144.09,40,0,3,0,high value item
+1193,1073,2022-12-13T07:41:09,DE,mobile_app,electronics,1188.11,37,3,3,0,repeat purchase
+1194,1042,2023-10-24T05:48:41,CN,mobile_app,electronics,8164.98,18,3,2,0,overnight shipping
+1195,1153,2023-03-29T01:01:23,MY,pos_terminal,gaming,1739.99,61,2,2,0,new device
+1196,1099,2024-04-07T04:48:41,UK,mobile_app,electronics,4369.95,94,2,2,0,
+1197,1046,2023-06-18T01:50:44,DE,web,electronics,8190.86,62,0,0,0,repeat purchase
+1198,1028,2022-09-07T11:55:50,US,web,groceries,741.27,29,4,2,0,overnight shipping
+1199,1000,2023-07-13T02:02:46,US,mobile_app,luxury,579.99,23,1,0,0,overnight shipping
+1200,1037,2022-12-04T20:33:37,US,web,,3198.14,NA,4,3,1,first time merchant

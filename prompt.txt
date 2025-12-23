@@ -1,0 +1,46 @@
+You are helping me create a synthetic dataset for a university data mining assignment. 
+Please generate a realistic **online transaction fraud detection** dataset in **CSV format**.
+
+Output rules (important):
+- Create one CSV file and provide it as a downloadable attachment/link.
+- Do not paste the CSV contents in the chat.
+- Use **one header row** and then the data rows.
+- Use commas as separators.
+- Do not wrap values in quotes unless required (e.g., commas in text fields).
+- Generate exactly **1200 rows**.
+
+Use exactly these columns and this order:
+transaction_id, customer_id, transaction_datetime, country, channel, merchant_category, amount, device_trust_score, num_txn_24h_customer, previous_chargeback_count, is_fraud, transaction_note
+
+Column requirements:
+- transaction_id: unique integer per row (no duplicates).
+- customer_id: integer IDs that repeat across rows (to represent returning customers).
+- transaction_datetime: ISO datetime between 2022-01-01 and 2024-12-31 (realistic distribution across dates and times).
+- country: two-letter codes such as MY, US, SG, CN, DE, AU (you may include a few more common codes).
+- channel: must be exactly one of [web, mobile_app, pos_terminal].
+- merchant_category: must be exactly one of [electronics, groceries, gaming, luxury, travel].
+- amount: USD amount, typically 1–5000, with rare outliers up to 10000.
+- device_trust_score: integer, usually 0–100 (lower is riskier).
+- num_txn_24h_customer: integer, usually 0–20 (count of customer transactions in last 24 hours).
+- previous_chargeback_count: integer 0–10 (past disputes/chargebacks for the customer).
+- is_fraud: 0 or 1. Keep overall fraud rate around **5% to 10%**.
+- transaction_note: short text note (e.g., “repeat purchase”, “new device”, “overnight shipping”, “VPN suspected”), sometimes blank.
+
+Make the data look realistic (patterns matter):
+- Fraud (is_fraud=1) should be more likely when:
+  - amount > 2000, and/or
+  - device_trust_score < 30, and/or
+  - num_txn_24h_customer > 5, and/or
+  - previous_chargeback_count > 2, and/or
+  - the customer suddenly transacts from an unusual country compared to their earlier rows.
+- Non-fraud should look “normal” and be the majority.
+- Customers should have consistent behavior most of the time (typical countries/channels/amount ranges), with occasional deviations.
+
+Data quality simulation:
+- In about **3% to 5%** of rows, make some non-critical fields missing by using blank, NA, or N/A.
+  (Allowed fields to be missing: merchant_category, device_trust_score, transaction_note.)
+- Add a small number of noisy/invalid values to mimic real-world messiness, such as:
+  - a few negative amounts,
+  - a few device_trust_score values slightly outside 0–100,
+  - a few num_txn_24h_customer values above 20.
+Keep these noisy cases rare.
